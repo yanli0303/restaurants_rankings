@@ -17,7 +17,7 @@ To use this project for your own city, follow these steps:
     - Place your API key in a file named `gcp_key.txt`. Get your own API key from [Google Cloud Platform](https://developers.google.com/maps/documentation/javascript/cloud-setup).
 
     ```bash
-    python gcp_places_api_scraper.py
+    uv run gcp_places_api_scraper.py
     ```
 
     This outputs `restaurants.json` with a crude sorting. Do some cleanup to remove fake restaurants at the bottom that don't have reviews and such.
@@ -25,7 +25,7 @@ To use this project for your own city, follow these steps:
 2. **Run the `wilson_script`:**
 
     ```bash
-    python wilson_script.py restaurants.json restaurants_wilson_ranked.json --confidence 0.95
+    uv run wilson_script.py restaurants.json restaurants_wilson_ranked.json --confidence 0.95
     ```
 
     This outputs a `.json` file with all the restaurants ranked in order of Wilson interval score.

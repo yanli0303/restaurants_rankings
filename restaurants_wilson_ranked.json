@@ -1,0 +1,4529 @@
+{
+  "restaurants": [
+    {
+      "name": "Mirch Mantra / Elaichi Tea",
+      "place_id": "ChIJ11skUwRFtokRUZrUJC6L-Sw",
+      "type": "Takeout Restaurant",
+      "rating": 5,
+      "user_ratings_total": 120,
+      "location": {
+        "latitude": 38.8868727,
+        "longitude": -77.44095089999999
+      },
+      "address": "4300 Chantilly Shopping Center Ste 2F, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=3240774437172451921&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.9689808335812966,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 1.0,
+        "positive_ratings": 120.0
+      }
+    },
+    {
+      "name": "Uptown Cafe at Westfields",
+      "place_id": "ChIJi8ui1PZEtokRvhBFMlaUR7c",
+      "type": "Cafe",
+      "rating": 4.9,
+      "user_ratings_total": 558,
+      "location": {
+        "latitude": 38.8715796,
+        "longitude": -77.4502327
+      },
+      "address": "4973 Westcroft Blvd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=13206687530218754238&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.9286410924144985,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.9500000000000002,
+        "positive_ratings": 530.1000000000001
+      }
+    },
+    {
+      "name": "Expo Cafe & Grill / Halal Eatz",
+      "place_id": "ChIJiX9geZ1GtokRicIRNPUXy-Y",
+      "type": "Restaurant",
+      "rating": 4.9,
+      "user_ratings_total": 221,
+      "location": {
+        "latitude": 38.8895415,
+        "longitude": -77.43829769999999
+      },
+      "address": "4265A Brookfield Corporate Dr A, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=16630412390903693961&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.912804767892604,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.9500000000000002,
+        "positive_ratings": 209.95000000000005
+      }
+    },
+    {
+      "name": "Sushi Kabuki",
+      "place_id": "ChIJ84L9uV1JtokRyjf1Pp_bdGU",
+      "type": "Japanese Restaurant",
+      "rating": 4.9,
+      "user_ratings_total": 200,
+      "location": {
+        "latitude": 38.9275461,
+        "longitude": -77.3749926
+      },
+      "address": "2533 John Milton Dr, Herndon",
+      "maps_url": "https://maps.google.com/?cid=7310709572131698634&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.9104218518612242,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.9500000000000002,
+        "positive_ratings": 190.00000000000003
+      }
+    },
+    {
+      "name": "Momo and Baozi",
+      "place_id": "ChIJven1oo1FtokRdbf6R1HX-gk",
+      "type": "Restaurant",
+      "rating": 4.9,
+      "user_ratings_total": 95,
+      "location": {
+        "latitude": 38.8870717,
+        "longitude": -77.4339488
+      },
+      "address": "4221 Walney Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=719123834618951541&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8861216781338803,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.9500000000000002,
+        "positive_ratings": 90.25000000000001
+      }
+    },
+    {
+      "name": "Chantilly Biryani Grill",
+      "place_id": "ChIJJ2MvXwNHtokRw4CLEr-s4Mk",
+      "type": "Restaurant",
+      "rating": 4.8,
+      "user_ratings_total": 1502,
+      "location": {
+        "latitude": 38.887650799999996,
+        "longitude": -77.4198995
+      },
+      "address": "13635 US-50, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=14546816733056565443&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8837929238856114,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8999999999999999,
+        "positive_ratings": 1351.8
+      }
+    },
+    {
+      "name": "Cozmo One",
+      "place_id": "ChIJ7UgyP-lHtokRiXWzQK1ecAY",
+      "type": "Grocery Store",
+      "rating": 4.8,
+      "user_ratings_total": 1443,
+      "location": {
+        "latitude": 38.890797299999996,
+        "longitude": -77.4380357
+      },
+      "address": "14201 Sullyfield Cir #100, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=463974859827017097&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8834433362379214,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8999999999999999,
+        "positive_ratings": 1298.6999999999998
+      }
+    },
+    {
+      "name": "Saigon Bistro Chantilly",
+      "place_id": "ChIJE7nRpkJHtokRq7FKO59zfI4",
+      "type": "Vietnamese Restaurant",
+      "rating": 4.8,
+      "user_ratings_total": 621,
+      "location": {
+        "latitude": 38.894153599999996,
+        "longitude": -77.4283201
+      },
+      "address": "13924 US-50, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=10267208378229633451&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8738900945385115,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8999999999999999,
+        "positive_ratings": 558.9
+      }
+    },
+    {
+      "name": "Los carnales tex mex grill",
+      "place_id": "ChIJ5SMxSnFHtokR95hj6AcYUw4",
+      "type": "Restaurant",
+      "rating": 4.8,
+      "user_ratings_total": 483,
+      "location": {
+        "latitude": 38.900661899999996,
+        "longitude": -77.44962629999999
+      },
+      "address": "14511 Lee Jackson Mem Hwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=1032195161840654583&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8700088396751094,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8999999999999999,
+        "positive_ratings": 434.69999999999993
+      }
+    },
+    {
+      "name": "honeygrow",
+      "place_id": "ChIJW5snqJdFtokRFDmtuEUz_og",
+      "type": "Restaurant",
+      "rating": 4.8,
+      "user_ratings_total": 187,
+      "location": {
+        "latitude": 38.8571916,
+        "longitude": -77.3943291
+      },
+      "address": "13044 Fair Lakes Shopping Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=9871383807786826004&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8486304373880231,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8999999999999999,
+        "positive_ratings": 168.29999999999998
+      }
+    },
+    {
+      "name": "ALOHA CREW Kitchen",
+      "place_id": "ChIJwZ41Dwa5t4kR8d5_Dh5sqy4",
+      "type": "Hawaiian Restaurant",
+      "rating": 4.9,
+      "user_ratings_total": 48,
+      "location": {
+        "latitude": 38.8832172,
+        "longitude": -77.44490979999999
+      },
+      "address": "4520 Daly Dr #102, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=3362900423110287089&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8485987216884466,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.9500000000000002,
+        "positive_ratings": 45.60000000000001
+      }
+    },
+    {
+      "name": "Taco Zocalo Sully Plaza",
+      "place_id": "ChIJEbvhfXdHtokRNUsNZCoeHP8",
+      "type": "Mexican Restaurant",
+      "rating": 4.8,
+      "user_ratings_total": 177,
+      "location": {
+        "latitude": 38.894345,
+        "longitude": -77.4286691
+      },
+      "address": "13938 US-50, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=18382600946435574581&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8469611570506755,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8999999999999999,
+        "positive_ratings": 159.29999999999998
+      }
+    },
+    {
+      "name": "Lazy Dog Restaurant & Bar",
+      "place_id": "ChIJf_t5ZDtEtokROwSvhbuv8gU",
+      "type": "Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 4489,
+      "location": {
+        "latitude": 38.8773378,
+        "longitude": -77.4410868
+      },
+      "address": "14335-14350, 14333 Newbrook Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=428598134490203195&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8392554431144679,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 3815.6500000000005
+      }
+    },
+    {
+      "name": "Ottoman Kitchen",
+      "place_id": "ChIJE3kNJydEtokRTeWgbcXmrg0",
+      "type": "Turkish Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 1641,
+      "location": {
+        "latitude": 38.8868654,
+        "longitude": -77.44034909999999
+      },
+      "address": "4300 Chantilly Shopping Center #1n, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=985979104062924109&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8319071993343504,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 1394.8500000000001
+      }
+    },
+    {
+      "name": "Dolan Uyghur Restaurant",
+      "place_id": "ChIJIRy2SWpHtokROndYDWszqbw",
+      "type": "Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 1615,
+      "location": {
+        "latitude": 38.8941832,
+        "longitude": -77.4231174
+      },
+      "address": "13872 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=13594453485072971578&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8317555816496578,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 1372.7500000000002
+      }
+    },
+    {
+      "name": "MISSION BBQ",
+      "place_id": "ChIJ2ZgJlOBFtokR-q_QiPSvIZs",
+      "type": "Barbecue Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 1366,
+      "location": {
+        "latitude": 38.8811225,
+        "longitude": -77.3992305
+      },
+      "address": "13067-J Lee Jackson Mem Hwy, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=11178409214912540666&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8300840585351741,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 1161.1000000000001
+      }
+    },
+    {
+      "name": "CAFEIN",
+      "place_id": "ChIJkVQdpIdGtokRwyjc-Q-WmDM",
+      "type": "Coffee Shop",
+      "rating": 4.7,
+      "user_ratings_total": 1329,
+      "location": {
+        "latitude": 38.8966098,
+        "longitude": -77.4243785
+      },
+      "address": "13924 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=3717886487754975427&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.829795082540591,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 1129.65
+      }
+    },
+    {
+      "name": "Megabytes Eatery",
+      "place_id": "ChIJC59qpIRGtokR6nvxA4vT6-I",
+      "type": "Asian Fusion Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 657,
+      "location": {
+        "latitude": 38.8943072,
+        "longitude": -77.43479800000001
+      },
+      "address": "14100 Sullyfield Cir #100, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=16351395466118790122&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8206653753517398,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 558.45
+      }
+    },
+    {
+      "name": "Capital Musubi",
+      "place_id": "ChIJ642oYM5FtokRpRsZB8jIAaE",
+      "type": "Hawaiian Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 633,
+      "location": {
+        "latitude": 38.8763764,
+        "longitude": -77.4418256
+      },
+      "address": "14385 Newbrook Dr Ste 201, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=11601774876521208741&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8200761333824891,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 538.0500000000001
+      }
+    },
+    {
+      "name": "Yaki Sushi",
+      "place_id": "ChIJmd6JgapHtokRyylCm-sf6DU",
+      "type": "Sushi Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 608,
+      "location": {
+        "latitude": 38.901328199999995,
+        "longitude": -77.4513669
+      },
+      "address": "4088 Airline Pkwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=3884389775389632971&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8194240010654094,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 516.8000000000001
+      }
+    },
+    {
+      "name": "Ono Brewing Company",
+      "place_id": "ChIJEX75SCJEtokRU_ZdMiMwam4",
+      "type": "Brewery",
+      "rating": 4.7,
+      "user_ratings_total": 542,
+      "location": {
+        "latitude": 38.883346499999995,
+        "longitude": -77.4448547
+      },
+      "address": "4520 Daly Dr #102, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=7956224619430409811&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8174806669750119,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 460.70000000000005
+      }
+    },
+    {
+      "name": "Wooboi Hot Chicken",
+      "place_id": "ChIJFw5gt6lFtokRE5us0qcjiC4",
+      "type": "Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 287,
+      "location": {
+        "latitude": 38.86058500000001,
+        "longitude": -77.38649140000001
+      },
+      "address": "12721 Shoppes Ln, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=3352969126278372115&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8040806636984517,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 243.95000000000002
+      }
+    },
+    {
+      "name": "South Block",
+      "place_id": "ChIJ_yFZDUdFtokRR9v9gbFjrjg",
+      "type": "Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 261,
+      "location": {
+        "latitude": 38.876156699999996,
+        "longitude": -77.4423812
+      },
+      "address": "14335-14350, 14383 Newbrook Dr Ste 200, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=4084311526112877383&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.8016205901668386,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 221.85000000000002
+      }
+    },
+    {
+      "name": "Farmside Kitchen - Chantilly",
+      "place_id": "ChIJ2Z4S_pZFtokRcc7DIsun7NY",
+      "type": "American Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 235,
+      "location": {
+        "latitude": 38.8765402,
+        "longitude": -77.4416687
+      },
+      "address": "14385 Newbrook Dr Ste 500, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=15486937709523750513&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7987377809656423,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 199.75000000000003
+      }
+    },
+    {
+      "name": "Ah Leng Chicken and Rice",
+      "place_id": "ChIJlZ1B3vNHtokR7Ijjmg256lQ",
+      "type": "Thai Restaurant",
+      "rating": 4.8,
+      "user_ratings_total": 56,
+      "location": {
+        "latitude": 38.8952044,
+        "longitude": -77.4267285
+      },
+      "address": "inside Lotte Chantilly, 13955 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=6118906511820556524&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7940928039340962,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8999999999999999,
+        "positive_ratings": 50.39999999999999
+      }
+    },
+    {
+      "name": "Moda Cafe & Restaurant",
+      "place_id": "ChIJrRX3XwZHtokRiO5fHrcNpwk",
+      "type": "Restaurant",
+      "rating": 4.6,
+      "user_ratings_total": 3370,
+      "location": {
+        "latitude": 38.90061620000001,
+        "longitude": -77.44984889999999
+      },
+      "address": "14513 Lee Jackson Mem Hwy # J, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=695539747591810696&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7861568340433641,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7999999999999998,
+        "positive_ratings": 2695.9999999999995
+      }
+    },
+    {
+      "name": "Clean Eatz",
+      "place_id": "ChIJHbS8A-JFtokRGtyOKeIB1Yk",
+      "type": "Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 157,
+      "location": {
+        "latitude": 38.8689201,
+        "longitude": -77.4466985
+      },
+      "address": "5053A Westfields Blvd, Centreville",
+      "maps_url": "https://maps.google.com/?cid=9931846624106961946&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7858283672044806,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 133.45000000000002
+      }
+    },
+    {
+      "name": "Mellow Mushroom Chantilly",
+      "place_id": "ChIJgRMwGT1EtokRYSqDzh_R_SU",
+      "type": "Pizza Restaurant",
+      "rating": 4.6,
+      "user_ratings_total": 2856,
+      "location": {
+        "latitude": 38.877784,
+        "longitude": -77.44157659999999
+      },
+      "address": "14335-14350, 14335 Newbrook Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=2737574083050023521&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7849313843247218,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7999999999999998,
+        "positive_ratings": 2284.7999999999993
+      }
+    },
+    {
+      "name": "Chick-fil-A",
+      "place_id": "ChIJSyDWOo1FtokRDQZANoP3dCw",
+      "type": "Fast Food Restaurant",
+      "rating": 4.6,
+      "user_ratings_total": 2810,
+      "location": {
+        "latitude": 38.8623575,
+        "longitude": -77.3875862
+      },
+      "address": "4516 Fair Knoll Dr, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=3203457377890207245&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7848053161482779,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7999999999999998,
+        "positive_ratings": 2247.9999999999995
+      }
+    },
+    {
+      "name": "Shree Ganapathi Kitchen",
+      "place_id": "ChIJ2bkeZH1HtokR0TFU8NdX_wk",
+      "type": "South Indian Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 131,
+      "location": {
+        "latitude": 38.8954028,
+        "longitude": -77.4268577
+      },
+      "address": "Food Court, Lotte Plaza, 13955 Metrotech Dr Ste 1, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=720391050364203473&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7789410491529517,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 111.35000000000001
+      }
+    },
+    {
+      "name": "FiLLi Cafe | Chantilly - VA",
+      "place_id": "ChIJB9CHJaVHtokRid-yL1FjfBs",
+      "type": "Cafe",
+      "rating": 4.6,
+      "user_ratings_total": 1005,
+      "location": {
+        "latitude": 38.8942829,
+        "longitude": -77.4252028
+      },
+      "address": "13881 Metrotech Dr # G, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=1980567136479928201&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7741483175667214,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7999999999999998,
+        "positive_ratings": 803.9999999999998
+      }
+    },
+    {
+      "name": "Yu Noodles",
+      "place_id": "ChIJh25XKgBHtokRrnUSJ4HGA5k",
+      "type": "Chinese Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 106,
+      "location": {
+        "latitude": 38.8967193,
+        "longitude": -77.4244093
+      },
+      "address": "13930 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=11025874570741708206&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7698709808706214,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 90.10000000000001
+      }
+    },
+    {
+      "name": "Piero's Corner",
+      "place_id": "ChIJ6SN9LEJGtokRg294ywjbWkQ",
+      "type": "Italian Restaurant",
+      "rating": 4.6,
+      "user_ratings_total": 684,
+      "location": {
+        "latitude": 38.9089771,
+        "longitude": -77.40756619999999
+      },
+      "address": "13340 Franklin Farm Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=4925489973302947715&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7683850279675019,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7999999999999998,
+        "positive_ratings": 547.1999999999999
+      }
+    },
+    {
+      "name": "Taco Zocalo",
+      "place_id": "ChIJZ1r99fxHtokRPbrPaDZm9ZY",
+      "type": "Taco Restaurant",
+      "rating": 4.6,
+      "user_ratings_total": 535,
+      "location": {
+        "latitude": 38.8992721,
+        "longitude": -77.4472152
+      },
+      "address": "14506-D Lee Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=10877712858856012349&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7640199997295127,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7999999999999998,
+        "positive_ratings": 427.9999999999999
+      }
+    },
+    {
+      "name": "Kar\u00e9 Bar",
+      "place_id": "ChIJ3S_2eNJHtokRr33tKuO-gs8",
+      "type": "Japanese Curry Restaurant",
+      "rating": 4.6,
+      "user_ratings_total": 340,
+      "location": {
+        "latitude": 38.896420899999995,
+        "longitude": -77.42397609999999
+      },
+      "address": "13912 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=14952723595710528943&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7542362903198583,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7999999999999998,
+        "positive_ratings": 271.99999999999994
+      }
+    },
+    {
+      "name": "Chorus Karaoke",
+      "place_id": "ChIJqby48fpHtokR0OV3ZbRC2fU",
+      "type": "Bar",
+      "rating": 4.6,
+      "user_ratings_total": 218,
+      "location": {
+        "latitude": 38.8966023,
+        "longitude": -77.42435900000001
+      },
+      "address": "13926 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=17715263951802459600&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7419129347251179,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7999999999999998,
+        "positive_ratings": 174.39999999999995
+      }
+    },
+    {
+      "name": "Silver Diner",
+      "place_id": "ChIJI4DKxpNOtokRozBrU6geU9c",
+      "type": "Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 4901,
+      "location": {
+        "latitude": 38.859812999999995,
+        "longitude": -77.37057030000001
+      },
+      "address": "12250 Fair Lakes Pkwy, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=15515778849524363427&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7376844712913132,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 3675.75
+      }
+    },
+    {
+      "name": "Hao by Haoru",
+      "place_id": "ChIJR1piHzxFtokRvIMXpOapea0",
+      "type": "Restaurant",
+      "rating": 4.6,
+      "user_ratings_total": 187,
+      "location": {
+        "latitude": 38.8787863,
+        "longitude": -77.3959931
+      },
+      "address": "13005-L Lee Jackson Mem Hwy, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=12500209048804099004&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.736890139137395,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7999999999999998,
+        "positive_ratings": 149.59999999999997
+      }
+    },
+    {
+      "name": "Guapo's Cocina & Bar",
+      "place_id": "ChIJCT6-RZFFtokRXnUE6Ikh3U0",
+      "type": "Mexican Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 3078,
+      "location": {
+        "latitude": 38.8578621,
+        "longitude": -77.3946576
+      },
+      "address": "13050 Fair Lakes Shopping Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=5610677586960348510&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.734397453641686,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 2308.5
+      }
+    },
+    {
+      "name": "The Burger Shack - Chantilly",
+      "place_id": "ChIJQ0FzA39GtokREhHc2hsc2iE",
+      "type": "Hamburger Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 2455,
+      "location": {
+        "latitude": 38.8895615,
+        "longitude": -77.4208136
+      },
+      "address": "13661 Lee Jackson Mem Hwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=2439293054136094994&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7324897094179855,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 1841.25
+      }
+    },
+    {
+      "name": "Chick-fil-A",
+      "place_id": "ChIJ0bxKUiBEtokRKKvzLedBybE",
+      "type": "Fast Food Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 2228,
+      "location": {
+        "latitude": 38.886208499999995,
+        "longitude": -77.4418081
+      },
+      "address": "4201 Chantilly Shopping Center, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=12810843076196281128&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7315999662673643,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 1671.0
+      }
+    },
+    {
+      "name": "Chick-fil-A",
+      "place_id": "ChIJl49-dvZGtokRX3W_JjHBfcY",
+      "type": "Fast Food Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 1680,
+      "location": {
+        "latitude": 38.9143677,
+        "longitude": -77.42666109999999
+      },
+      "address": "3454 Historic Sully Way, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=14302800408446203231&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7287395295952673,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 1260.0
+      }
+    },
+    {
+      "name": "CAVA",
+      "place_id": "ChIJS33N6HVFtokRZvI2JL2rLP4",
+      "type": "Mediterranean Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 1446,
+      "location": {
+        "latitude": 38.8771189,
+        "longitude": -77.4421271
+      },
+      "address": "14337 Newbrook Dr Ste 500, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=18315202613453714022&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7270388751061049,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 1084.5
+      }
+    },
+    {
+      "name": "Taco Lagos",
+      "place_id": "ChIJmbRup-NHtokR8-bw6Q4noV0",
+      "type": "Taco Restaurant",
+      "rating": 4.6,
+      "user_ratings_total": 140,
+      "location": {
+        "latitude": 38.9002104,
+        "longitude": -77.4489344
+      },
+      "address": "14511Q, US-50, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=6746716661785618163&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7261308550867981,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7999999999999998,
+        "positive_ratings": 111.99999999999997
+      }
+    },
+    {
+      "name": "Eggholic - Indian Street Food",
+      "place_id": "ChIJj4G6idBHtokR7bkSX0gUcRY",
+      "type": "Indian Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 1172,
+      "location": {
+        "latitude": 38.8947655,
+        "longitude": -77.4267007
+      },
+      "address": "13951 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=1617096042267982317&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7244198296561728,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 879.0
+      }
+    },
+    {
+      "name": "The Field at Commonwealth",
+      "place_id": "ChIJj_icpQJFtokRWgHmVSjQtno",
+      "type": "Shopping Mall",
+      "rating": 4.5,
+      "user_ratings_total": 1093,
+      "location": {
+        "latitude": 38.877323499999996,
+        "longitude": -77.4426702
+      },
+      "address": "14335-14350, Newbrook Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=8842483790046953818&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7234837106861277,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 819.75
+      }
+    },
+    {
+      "name": "Bonefish Grill",
+      "place_id": "ChIJ14n34uNFtokRmFI9_VKGx8Y",
+      "type": "Seafood Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 1016,
+      "location": {
+        "latitude": 38.8790708,
+        "longitude": -77.39584049999999
+      },
+      "address": "13005 Lee Jackson Mem Hwy, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=14323564830869246616&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7224660828401274,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 762.0
+      }
+    },
+    {
+      "name": "Tropical Smoothie Cafe - Herndon Franklin Farm village centre",
+      "place_id": "ChIJ35_LvelHtokROpbaAYBDxpY",
+      "type": "Juice Shop",
+      "rating": 4.6,
+      "user_ratings_total": 121,
+      "location": {
+        "latitude": 38.908972999999996,
+        "longitude": -77.407643
+      },
+      "address": "13344B Franklin Farm Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=10864445368143877690&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.719997843905314,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7999999999999998,
+        "positive_ratings": 96.79999999999998
+      }
+    },
+    {
+      "name": "Chicken Salad Chick",
+      "place_id": "ChIJK4vc21NFtokRkHFixyOTpDU",
+      "type": "Chicken Restaurant",
+      "rating": 4.6,
+      "user_ratings_total": 118,
+      "location": {
+        "latitude": 38.8800708,
+        "longitude": -77.3980378
+      },
+      "address": "13057 Lee Jackson Mem Hwy Unit 36, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=3865376162068984208&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7188895792810182,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7999999999999998,
+        "positive_ratings": 94.39999999999998
+      }
+    },
+    {
+      "name": "Ocean Paradise Restaurant & Bar",
+      "place_id": "ChIJ6ZHesEhPtokRP6O49aBaUC8",
+      "type": "Seafood Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 609,
+      "location": {
+        "latitude": 38.873234,
+        "longitude": -77.372907
+      },
+      "address": "3903 Fair Ridge Dr Unit I, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=3409324565283251007&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7141144628185025,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 456.75
+      }
+    },
+    {
+      "name": "Cafe At Liberty Three",
+      "place_id": "ChIJBY4tlhtEtokR87IXH2uA1AI",
+      "type": "Cafe",
+      "rating": 4.9,
+      "user_ratings_total": 14,
+      "location": {
+        "latitude": 38.8849139,
+        "longitude": -77.45514779999999
+      },
+      "address": "14668 Lee Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=203929080710017779&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7130569048190348,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.9500000000000002,
+        "positive_ratings": 13.300000000000002
+      }
+    },
+    {
+      "name": "Gallery Cafe",
+      "place_id": "ChIJTU4CDDxEtokR_ZybaGvunW4",
+      "type": "Brunch Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 40,
+      "location": {
+        "latitude": 38.872840499999995,
+        "longitude": -77.44159429999999
+      },
+      "address": "14291 Park Meadow Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=7970789060599586045&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.709276756335103,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 34.0
+      }
+    },
+    {
+      "name": "Pupatella",
+      "place_id": "ChIJTZdRKABHtokRDtlZLJuIIPg",
+      "type": "Pizza Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 445,
+      "location": {
+        "latitude": 38.887910399999996,
+        "longitude": -77.4186033
+      },
+      "address": "13619 Lee Jackson Memorial Hwy Service Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=17879440720706263310&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7077440489984754,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 333.75
+      }
+    },
+    {
+      "name": "El Fresco Tex-Mex Grill",
+      "place_id": "ChIJP6XjAZFHtokRQOmvMxawAAA",
+      "type": "Mexican Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 427,
+      "location": {
+        "latitude": 38.896800299999995,
+        "longitude": -77.4265293
+      },
+      "address": "13970 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=193609402935616&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7068227948445953,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 320.25
+      }
+    },
+    {
+      "name": "Pho VietFresh",
+      "place_id": "ChIJCRG-TS9HtokRVhLc4IkGmHY",
+      "type": "Vietnamese Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 412,
+      "location": {
+        "latitude": 38.908949,
+        "longitude": -77.40745249999999
+      },
+      "address": "13340 Franklin Farm Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=8545587482188321366&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.706008175425478,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 309.0
+      }
+    },
+    {
+      "name": "Hangry Joe\u2019s Hot Chicken",
+      "place_id": "ChIJj57VIU1FtokRxcal2WzkOYU",
+      "type": "Chicken Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 326,
+      "location": {
+        "latitude": 38.8786537,
+        "longitude": -77.396114
+      },
+      "address": "13005-R Lee Jackson Memorial Hwy Service Rd, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=9599955236876043973&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.7002677520801364,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 244.5
+      }
+    },
+    {
+      "name": "Wingstop",
+      "place_id": "ChIJ3VR6L21HtokROeS79HAW8wU",
+      "type": "Chicken Wings Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 235,
+      "location": {
+        "latitude": 38.8938631,
+        "longitude": -77.42732339999999
+      },
+      "address": "13916 Lee Jackson Mem Hwy Suite 22, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=428711063928431673&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6909166955454281,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 176.25
+      }
+    },
+    {
+      "name": "Rice Culture - Taiyaki & Ice Cream",
+      "place_id": "ChIJdXN7LABHtokRCkjabWnedSU",
+      "type": "Ice Cream Shop",
+      "rating": 4.5,
+      "user_ratings_total": 229,
+      "location": {
+        "latitude": 38.897469199999996,
+        "longitude": -77.44331059999999
+      },
+      "address": "14408 Chantilly Crossing Ln, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=2699308096074434570&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6901043223164669,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 171.75
+      }
+    },
+    {
+      "name": "Texas Roadhouse",
+      "place_id": "ChIJ8zwm3j9EtokRub7CPcm3wDg",
+      "type": "Steak House",
+      "rating": 4.4,
+      "user_ratings_total": 3703,
+      "location": {
+        "latitude": 38.870763,
+        "longitude": -77.4456884
+      },
+      "address": "4993 Westone Plz, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=4089470536604892857&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6850391168717073,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 2592.100000000001
+      }
+    },
+    {
+      "name": "Sully Cafe",
+      "place_id": "ChIJcZ4LZJ1GtokRj3M33BiIlaQ",
+      "type": "Deli",
+      "rating": 4.5,
+      "user_ratings_total": 187,
+      "location": {
+        "latitude": 38.8896334,
+        "longitude": -77.4371331
+      },
+      "address": "14240 Sullyfield Cir # B, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=11859534834105283471&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.683327471933281,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 140.25
+      }
+    },
+    {
+      "name": "LongHorn Steakhouse",
+      "place_id": "ChIJr9jig49GtokR0Gzgh1b_kOk",
+      "type": "Steak House",
+      "rating": 4.4,
+      "user_ratings_total": 2475,
+      "location": {
+        "latitude": 38.895888,
+        "longitude": -77.433572
+      },
+      "address": "14056 Thunderbolt Pl, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=16830232554595445968&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6816475295225148,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 1732.5000000000005
+      }
+    },
+    {
+      "name": "Willard's Real Pit BBQ",
+      "place_id": "ChIJ2Y2uLCFEtokRPyjrrcmWEyk",
+      "type": "Barbecue Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 2267,
+      "location": {
+        "latitude": 38.886434,
+        "longitude": -77.441233
+      },
+      "address": "4300 Chantilly Shopping Center #1A, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=2959875173063010367&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6808106754410956,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 1586.9000000000003
+      }
+    },
+    {
+      "name": "Bourbon Boulevard Steakhouse - Chantilly",
+      "place_id": "ChIJ1-T_90xFtokRvqS3VxmQVRY",
+      "type": "Steak House",
+      "rating": 4.4,
+      "user_ratings_total": 2027,
+      "location": {
+        "latitude": 38.8867897,
+        "longitude": -77.4422814
+      },
+      "address": "4301 Chantilly Shopping Center, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=1609350880375055550&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6796875274294489,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 1418.9000000000003
+      }
+    },
+    {
+      "name": "Tony's NY Pizza",
+      "place_id": "ChIJo2HTDpdFtokRdc8XkcXvJlQ",
+      "type": "Pizza Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 1365,
+      "location": {
+        "latitude": 38.8552094,
+        "longitude": -77.39977230000001
+      },
+      "address": "13087 Fair Lakes Shopping Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=6063797580122804085&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6751560154484426,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 955.5000000000002
+      }
+    },
+    {
+      "name": "Ocean Crab",
+      "place_id": "ChIJybeXfRtHtokRzwN2AiwnCnI",
+      "type": "Seafood Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 846,
+      "location": {
+        "latitude": 38.893807599999995,
+        "longitude": -77.4323445
+      },
+      "address": "14005 Lee Jackson Memorial Hwy Service Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=8217423540064224207&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6682729050140785,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 592.2000000000002
+      }
+    },
+    {
+      "name": "Checkers Deli & Cafe",
+      "place_id": "ChIJ92Xe7ihEtokRcl8btfSaLxg",
+      "type": "Deli",
+      "rating": 4.5,
+      "user_ratings_total": 122,
+      "location": {
+        "latitude": 38.8859078,
+        "longitude": -77.4340981
+      },
+      "address": "4270 Henninger Ct # A, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=1742781956616839026&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6663296566163392,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 91.5
+      }
+    },
+    {
+      "name": "Ocha Thai Kitchen and Cafe",
+      "place_id": "ChIJZ6XMX3lEtokRdmToEv50zko",
+      "type": "Thai Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 684,
+      "location": {
+        "latitude": 38.869198499999996,
+        "longitude": -77.4470545
+      },
+      "address": "5037 Westfields Blvd, Centreville",
+      "maps_url": "https://maps.google.com/?cid=5390374438596797558&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6646185365053132,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 478.8000000000001
+      }
+    },
+    {
+      "name": "SMOKI KABOBS",
+      "place_id": "ChIJV1VleiFEtokR31_liiyieG8",
+      "type": "Afghan restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 554,
+      "location": {
+        "latitude": 38.8843872,
+        "longitude": -77.4441224
+      },
+      "address": "4500 Daly Dr suite 200, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=8032348247607828447&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6605699096785077,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 387.8000000000001
+      }
+    },
+    {
+      "name": "Buon Appetito New York Pizza",
+      "place_id": "ChIJGWPH8odGtokRYDCAM9cIAMo",
+      "type": "Pizza Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 549,
+      "location": {
+        "latitude": 38.8966403,
+        "longitude": -77.42459099999999
+      },
+      "address": "13932 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=14555643716036472928&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6603855359853958,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 384.3000000000001
+      }
+    },
+    {
+      "name": "Lucia's Italian Ristorante - Herndon",
+      "place_id": "ChIJedEvKX9ItokRR3cyZStwgK0",
+      "type": "Italian Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 524,
+      "location": {
+        "latitude": 38.9276029,
+        "longitude": -77.3750766
+      },
+      "address": "2531 John Milton Dr, Herndon",
+      "maps_url": "https://maps.google.com/?cid=12502115897264207687&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6594237488573322,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 366.80000000000007
+      }
+    },
+    {
+      "name": "La Ong Thai Bistro",
+      "place_id": "ChIJpaf4HX9ItokRWSH5PWNjC0E",
+      "type": "Thai Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 493,
+      "location": {
+        "latitude": 38.9277758,
+        "longitude": -77.3752002
+      },
+      "address": "2521 John Milton Dr, Herndon",
+      "maps_url": "https://maps.google.com/?cid=4686949115101782361&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.658129204293254,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 345.1000000000001
+      }
+    },
+    {
+      "name": "Foster's Grille",
+      "place_id": "ChIJ8zwm3j9EtokRlaD0sk8Umu4",
+      "type": "American Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 492,
+      "location": {
+        "latitude": 38.8698912,
+        "longitude": -77.4442273
+      },
+      "address": "5007 Westone Plz, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=17193076859977638037&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.658085383637576,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 344.4000000000001
+      }
+    },
+    {
+      "name": "Super Pho",
+      "place_id": "ChIJ1XPpQ1FGtokRrL_Jxr-X_u4",
+      "type": "Vietnamese Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 465,
+      "location": {
+        "latitude": 38.9215167,
+        "longitude": -77.41647499999999
+      },
+      "address": "3065 Centreville Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=17221368875041013676&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6568483694243898,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 325.50000000000006
+      }
+    },
+    {
+      "name": "Cheng's Asian House",
+      "place_id": "ChIJ4yI-aoRHtokRUJQNbL05T6U",
+      "type": "Chinese Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 449,
+      "location": {
+        "latitude": 38.9008663,
+        "longitude": -77.4512388
+      },
+      "address": "4090 Airline Pkwy Ste G, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=11911803025142682704&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6560622964826316,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 314.30000000000007
+      }
+    },
+    {
+      "name": "Firehouse Subs Chantilly",
+      "place_id": "ChIJbeilModGtokRYgz9sJrLFL4",
+      "type": "Sandwich Shop",
+      "rating": 4.4,
+      "user_ratings_total": 385,
+      "location": {
+        "latitude": 38.892685,
+        "longitude": -77.42535
+      },
+      "address": "13812 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=13696796231995296866&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6524330914337826,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 269.50000000000006
+      }
+    },
+    {
+      "name": "Rawal Kabob",
+      "place_id": "ChIJW5Ua1aJGtokRlrPsFI_Xmvc",
+      "type": "Kebab Shop",
+      "rating": 4.4,
+      "user_ratings_total": 356,
+      "location": {
+        "latitude": 38.900577999999996,
+        "longitude": -77.45002099999999
+      },
+      "address": "14513 Lee Jackson Mem Hwy F, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=17841809883312993174&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6504687467800125,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 249.20000000000007
+      }
+    },
+    {
+      "name": "CHICHA San Chen",
+      "place_id": "ChIJgZmKeG5FtokRMd3RHfQUXaA",
+      "type": "Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 279,
+      "location": {
+        "latitude": 38.860748199999996,
+        "longitude": -77.38646419999999
+      },
+      "address": "12715 Shoppes Ln, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=11555415257607429425&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6438091044740071,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 195.30000000000004
+      }
+    },
+    {
+      "name": "Greenbriar Town Center",
+      "place_id": "ChIJu62g1eBFtokR_VNmtiK7zAs",
+      "type": "Shopping Mall",
+      "rating": 4.3,
+      "user_ratings_total": 3493,
+      "location": {
+        "latitude": 38.8795278,
+        "longitude": -77.3984838
+      },
+      "address": "13043 Lee Jackson Memorial Hwy Service Rd, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=850260187429622781&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6340254888553983,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 2270.45
+      }
+    },
+    {
+      "name": "Halal Hunan Village Chantilly",
+      "place_id": "ChIJ_VLPp1lHtokRyaokOFM2s-w",
+      "type": "Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 195,
+      "location": {
+        "latitude": 38.900966600000004,
+        "longitude": -77.450011
+      },
+      "address": "14513 Lee Jackson Mem Hwy B, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=17056035944834312905&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6323242305209517,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 136.50000000000003
+      }
+    },
+    {
+      "name": "Anita's New Mexico Style Mexican Food",
+      "place_id": "ChIJYSZX9oNGtokRihNVp1Vc8e4",
+      "type": "Mexican Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 2057,
+      "location": {
+        "latitude": 38.8934706,
+        "longitude": -77.43068079999999
+      },
+      "address": "13921 US-50, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=17217644373363463050&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.62912564614333,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 1337.0499999999997
+      }
+    },
+    {
+      "name": "Red Robin Gourmet Burgers and Brews",
+      "place_id": "ChIJS-ivF5hGtokR6ZISpKGzDz0",
+      "type": "Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 1820,
+      "location": {
+        "latitude": 38.8992111,
+        "longitude": -77.445568
+      },
+      "address": "14450 Chantilly Crossing Ln, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=4399932867788051177&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6277918090657686,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 1182.9999999999998
+      }
+    },
+    {
+      "name": "First Watch",
+      "place_id": "ChIJs1A-xeZFtokRgEC8KTP_JQ4",
+      "type": "Breakfast Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 1651,
+      "location": {
+        "latitude": 38.878761100000006,
+        "longitude": -77.397667
+      },
+      "address": "13027 Lee Jackson Mem Hwy, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=1019501485877903488&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6266686009990678,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 1073.1499999999999
+      }
+    },
+    {
+      "name": "Santini's New York Style Deli - Chantilly",
+      "place_id": "ChIJJS6_J4VGtokR_SLMRQdPI5c",
+      "type": "Sandwich Shop",
+      "rating": 4.3,
+      "user_ratings_total": 1263,
+      "location": {
+        "latitude": 38.8965912,
+        "longitude": -77.4349594
+      },
+      "address": "3980 Corsair Ct, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=10890635216566362877&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6232761997661792,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 820.9499999999999
+      }
+    },
+    {
+      "name": "Sakura Japanese Steak, Seafood House & Sushi Bar",
+      "place_id": "ChIJ3bGBLpJFtokRpIJGRdOIbcY",
+      "type": "Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 1051,
+      "location": {
+        "latitude": 38.859784700000006,
+        "longitude": -77.3889532
+      },
+      "address": "12950 Fair Lakes Shopping Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=14298234832952918692&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6206649502090145,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 683.1499999999999
+      }
+    },
+    {
+      "name": "Fox Mill Shopping Center",
+      "place_id": "ChIJu4tD4n5ItokRMg8h5fwcrts",
+      "type": "Shopping Mall",
+      "rating": 4.3,
+      "user_ratings_total": 952,
+      "location": {
+        "latitude": 38.9267664,
+        "longitude": -77.374849
+      },
+      "address": "2551 John Milton Dr, Herndon",
+      "maps_url": "https://maps.google.com/?cid=15829621612755357490&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6191536534342554,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 618.8
+      }
+    },
+    {
+      "name": "King Pollo of Chantilly",
+      "place_id": "ChIJ9Uz6laNGtokRU2x05a30atg",
+      "type": "Peruvian Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 880,
+      "location": {
+        "latitude": 38.901419,
+        "longitude": -77.4511491
+      },
+      "address": "4080 Airline Pkwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=15594545687439895635&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6178962935825877,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 571.9999999999999
+      }
+    },
+    {
+      "name": "Crossroads",
+      "place_id": "ChIJccXVOIdGtokRyGKGrc5TKcI",
+      "type": "Bar",
+      "rating": 4.3,
+      "user_ratings_total": 829,
+      "location": {
+        "latitude": 38.8937199,
+        "longitude": -77.42578929999999
+      },
+      "address": "13891 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=13990805864542790344&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6169072599980787,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 538.8499999999999
+      }
+    },
+    {
+      "name": "Habit Burger & Grill",
+      "place_id": "ChIJ24oUR09FtokRMCDdIoZs5P0",
+      "type": "Hamburger Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 810,
+      "location": {
+        "latitude": 38.8766101,
+        "longitude": -77.4416234
+      },
+      "address": "14335-14350, 14385 Newbrook Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=18294866909652131888&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6165148986575462,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 526.4999999999999
+      }
+    },
+    {
+      "name": "Panda House",
+      "place_id": "ChIJ1dHjm0FGtokRmw-bCC-uFxs",
+      "type": "Chinese Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 129,
+      "location": {
+        "latitude": 38.9083013,
+        "longitude": -77.4060509
+      },
+      "address": "13320 Franklin Farm Rd Ste D, Herndon",
+      "maps_url": "https://maps.google.com/?cid=1952220480519475099&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6160746220460824,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 90.30000000000003
+      }
+    },
+    {
+      "name": "Rita's Italian Ice & Frozen Custard",
+      "place_id": "ChIJCXOyPLdFtokRidi82MsSq3c",
+      "type": "Ice Cream Shop",
+      "rating": 4.4,
+      "user_ratings_total": 124,
+      "location": {
+        "latitude": 38.8869146,
+        "longitude": -77.44191529999999
+      },
+      "address": "4299 Chantilly Shopping Center Cnt Suite 204, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=8623006578254862473&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.614326445785616,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 86.80000000000003
+      }
+    },
+    {
+      "name": "Five Guys",
+      "place_id": "ChIJt2q9TphGtokRq1WlC1dteqo",
+      "type": "Fast Food Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 568,
+      "location": {
+        "latitude": 38.894223,
+        "longitude": -77.44764370000001
+      },
+      "address": "14421 Chantilly Crossing Ln, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=12284251154231416235&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6098861832172833,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 369.19999999999993
+      }
+    },
+    {
+      "name": "Ko Hyang House",
+      "place_id": "ChIJiX9geZ1GtokRfwN2gJPXuP4",
+      "type": "Korean Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 562,
+      "location": {
+        "latitude": 38.889444399999995,
+        "longitude": -77.4383333
+      },
+      "address": "4265C Brookfield Corporate Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=18354657309863838591&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6096685721635595,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 365.29999999999995
+      }
+    },
+    {
+      "name": "Tipicos Yaneth",
+      "place_id": "ChIJobcA1-FHtokRJCEIG2Syxww",
+      "type": "Restaurant",
+      "rating": 5,
+      "user_ratings_total": 6,
+      "location": {
+        "latitude": 38.8938996,
+        "longitude": -77.4326359
+      },
+      "address": "14017 Lee Jackson Memorial Hwy Service Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=920900791840547108&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6096657120978346,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 1.0,
+        "positive_ratings": 6.0
+      }
+    },
+    {
+      "name": "Big Buns",
+      "place_id": "ChIJ00YJBclHtokRAeKLktR3S3A",
+      "type": "Hamburger Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 545,
+      "location": {
+        "latitude": 38.9078215,
+        "longitude": -77.405959
+      },
+      "address": "13300 Franklin Farm Rd Ste G, Herndon",
+      "maps_url": "https://maps.google.com/?cid=8091692910376641025&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6090324095903179,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 354.24999999999994
+      }
+    },
+    {
+      "name": "Dave's Seafood & Subs",
+      "place_id": "ChIJJdZLj4NGtokRTLRnOHDe0v8",
+      "type": "Seafood Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 435,
+      "location": {
+        "latitude": 38.8932256,
+        "longitude": -77.43216509999999
+      },
+      "address": "4008 Walney Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=18434040798344885324&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.6040419491256281,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 282.74999999999994
+      }
+    },
+    {
+      "name": "Pueblos Tex-Mex Grill",
+      "place_id": "ChIJRaZkmzxEtokRfHXRekv9L84",
+      "type": "Tex-Mex Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 345,
+      "location": {
+        "latitude": 38.877431099999995,
+        "longitude": -77.44191529999999
+      },
+      "address": "14335-14350, 14337 Newbrook Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=14857372196343477628&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5982685628144043,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 224.24999999999997
+      }
+    },
+    {
+      "name": "F & F",
+      "place_id": "ChIJQUczdMFHtokR2qCWvKU-O40",
+      "type": "Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 88,
+      "location": {
+        "latitude": 38.89558960000001,
+        "longitude": -77.4273642
+      },
+      "address": "Lotte Plaza, 13955 Metrotech Dr Ste 1, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=10176796664528281818&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.597540675387604,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 61.600000000000016
+      }
+    },
+    {
+      "name": "CAFE MOMENT",
+      "place_id": "ChIJ18j1I7FHtokRvKrXOcyK-Wo",
+      "type": "Cafe",
+      "rating": 4.3,
+      "user_ratings_total": 289,
+      "location": {
+        "latitude": 38.8936978,
+        "longitude": -77.427245
+      },
+      "address": "13910 Lee Jackson Memorial Hwy Service Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=7708344846969711292&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5933679856978129,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 187.84999999999997
+      }
+    },
+    {
+      "name": "WOOMIGA",
+      "place_id": "ChIJj69MtBNHtokRa_WOyC4Wxgk",
+      "type": "Korean Barbecue Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 227,
+      "location": {
+        "latitude": 38.893817,
+        "longitude": -77.4325546
+      },
+      "address": "14015 Lee Jackson Memorial Hwy Service Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=704274781919180139&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.585923933101646,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 147.54999999999998
+      }
+    },
+    {
+      "name": "MOMO SPOT",
+      "place_id": "ChIJDccHn1VHtokR0KIjdq8VhsY",
+      "type": "Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 226,
+      "location": {
+        "latitude": 38.8951322,
+        "longitude": -77.4269872
+      },
+      "address": "13955 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=14305145109734466256&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5857790358286744,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 146.89999999999998
+      }
+    },
+    {
+      "name": "Eugene's Sausage & Fries at Bunnyman Brewing",
+      "place_id": "ChIJw13HT6VHtokR2SoxuusB0fc",
+      "type": "Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 33,
+      "location": {
+        "latitude": 38.8929555,
+        "longitude": -77.43737449999999
+      },
+      "address": "14140 Parke Long Ct A-C, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=17857056109453454041&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5816998072438798,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 24.75
+      }
+    },
+    {
+      "name": "Olive Garden Italian Restaurant",
+      "place_id": "ChIJY0cCD5JFtokRzndL0R47Gdc",
+      "type": "Italian Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 2309,
+      "location": {
+        "latitude": 38.858691,
+        "longitude": -77.391189
+      },
+      "address": "12980 Fair Lakes Shopping Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=15499484596118714318&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5798676894498227,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 1385.4000000000003
+      }
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "place_id": "ChIJYQUq2YxFtokRV45wNf5dOsE",
+      "type": "Sandwich Shop",
+      "rating": 4.3,
+      "user_ratings_total": 187,
+      "location": {
+        "latitude": 38.861005999999996,
+        "longitude": -77.38651
+      },
+      "address": "12703 Shoppes Ln, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=13923544544368954967&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5792423415167611,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 121.54999999999998
+      }
+    },
+    {
+      "name": "Desi Breakfast Club",
+      "place_id": "ChIJbXcqpMJHtokRvI6mk34cAIA",
+      "type": "Breakfast Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 1608,
+      "location": {
+        "latitude": 38.9215792,
+        "longitude": -77.4162772
+      },
+      "address": "3065-J Centreville Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=9223403366823399100&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.575844264609571,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 964.8000000000002
+      }
+    },
+    {
+      "name": "Jollibee",
+      "place_id": "ChIJ_dyZsvhFtokRrUoX3Qz658E",
+      "type": "Chicken Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 1591,
+      "location": {
+        "latitude": 38.887138799999995,
+        "longitude": -77.44452729999999
+      },
+      "address": "4406 Chantilly Shopping Center, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=13972411302096095917&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5757145771495196,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 954.6000000000001
+      }
+    },
+    {
+      "name": "Bento House",
+      "place_id": "ChIJ3zjn7k9FtokRT-k5m9zM0go",
+      "type": "Asian Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 165,
+      "location": {
+        "latitude": 38.8867639,
+        "longitude": -77.4419783
+      },
+      "address": "4299 Chantilly Shopping Center Ste 105, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=779910933357652303&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5745615480619146,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 107.24999999999999
+      }
+    },
+    {
+      "name": "Baek Ban Korean Restaurant (\ubc31\ubc18)",
+      "place_id": "ChIJ46MWA_JHtokRr9gInfkFhhc",
+      "type": "Korean Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 148,
+      "location": {
+        "latitude": 38.896774099999995,
+        "longitude": -77.4245438
+      },
+      "address": "13934 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=1695048879391168687&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.570244901133607,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 96.19999999999999
+      }
+    },
+    {
+      "name": "Dwaraka's Indian Kitchen",
+      "place_id": "ChIJGQvkd4dGtokR9s9NQvqYNwg",
+      "type": "Indian Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 1040,
+      "location": {
+        "latitude": 38.89489700000001,
+        "longitude": -77.4267149
+      },
+      "address": "13949 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=592110076644151286&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5699105559396724,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 624.0000000000001
+      }
+    },
+    {
+      "name": "Lebanese Kitchen Restaurant VA",
+      "place_id": "ChIJmboVQ-FFtokR8scK1MOUM8o",
+      "type": "Lebanese Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 985,
+      "location": {
+        "latitude": 38.8787914,
+        "longitude": -77.3978731
+      },
+      "address": "13031 Lee Jackson Mem Hwy, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=14570152788270696434&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5690745786129089,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 591.0000000000001
+      }
+    },
+    {
+      "name": "Blue Iguana",
+      "place_id": "ChIJBdWA-YxFtokRxOBawyrOemM",
+      "type": "Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 931,
+      "location": {
+        "latitude": 38.860515199999995,
+        "longitude": -77.3865144
+      },
+      "address": "12727 Shoppes Ln, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=7168268439975026884&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5681824080641044,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 558.6000000000001
+      }
+    },
+    {
+      "name": "Thai Basil",
+      "place_id": "ChIJuT5w06JGtokRNO0jL-IPxUc",
+      "type": "Thai Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 914,
+      "location": {
+        "latitude": 38.9001976,
+        "longitude": -77.4489013
+      },
+      "address": "14511 US-50 p, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=5171557211232791860&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5678852285567617,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 548.4000000000001
+      }
+    },
+    {
+      "name": "\uacf0\uc21c\uc544 Gom Soon Ah",
+      "place_id": "ChIJialbMU1HtokR2LMiTpENDsw",
+      "type": "Korean Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 54,
+      "location": {
+        "latitude": 38.8954406,
+        "longitude": -77.4269034
+      },
+      "address": "Food Court, Lotte Plaza, 13955 Metrotech Dr Ste 1, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=14703704751143564248&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5678758582637444,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 37.80000000000001
+      }
+    },
+    {
+      "name": "El Granito de Oro",
+      "place_id": "ChIJh7iahFdHtokRDg9Ln4Ec5IU",
+      "type": "Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 138,
+      "location": {
+        "latitude": 38.900409599999996,
+        "longitude": -77.44813169999999
+      },
+      "address": "14502-H, 14502-I Lee Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=9647867644783300366&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5673383987639689,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 89.69999999999999
+      }
+    },
+    {
+      "name": "Arby's",
+      "place_id": "ChIJSQptrSFEtokRkHCL7_XtHaA",
+      "type": "Fast Food Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 753,
+      "location": {
+        "latitude": 38.887214799999995,
+        "longitude": -77.4450336
+      },
+      "address": "Shopping Center Dr, 4400 Chantilly Lace Ct, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=11537639460934742160&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5645866694321001,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 451.80000000000007
+      }
+    },
+    {
+      "name": "Sheesh Grill - Chantilly",
+      "place_id": "ChIJ8ak-PpBHtokRAbiEt9Xorzo",
+      "type": "Middle Eastern Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 679,
+      "location": {
+        "latitude": 38.8944359,
+        "longitude": -77.4288925
+      },
+      "address": "13940 Lee Jackson Memorial Hwy Service Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=4228854579728791553&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5626885031504272,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 407.40000000000003
+      }
+    },
+    {
+      "name": "54 Kitchen Grill & Bar",
+      "place_id": "ChIJ_wVh00RHtokRl9Mvul2IOZk",
+      "type": "Vietnamese Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 49,
+      "location": {
+        "latitude": 38.8941496,
+        "longitude": -77.4283208
+      },
+      "address": "13924 US-50, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=11041005897612514199&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5610500629827572,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 34.30000000000001
+      }
+    },
+    {
+      "name": "Don Churro Restaurant",
+      "place_id": "ChIJIf95YYdGtokRVD4jRMM1884",
+      "type": "Peruvian Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 551,
+      "location": {
+        "latitude": 38.8941667,
+        "longitude": -77.42638889999999
+      },
+      "address": "13905 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=14912321903931899476&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5585384753108167,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 330.6
+      }
+    },
+    {
+      "name": "Glory Days Grill",
+      "place_id": "ChIJRwTVPn9ItokR0UIR54LFSS4",
+      "type": "Sports Bar",
+      "rating": 4.2,
+      "user_ratings_total": 479,
+      "location": {
+        "latitude": 38.9260023,
+        "longitude": -77.37572469999999
+      },
+      "address": "2567 John Milton Dr, Herndon",
+      "maps_url": "https://maps.google.com/?cid=3335414165057651409&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5555001824060726,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 287.40000000000003
+      }
+    },
+    {
+      "name": "Se\u00f1or Ramon Taqueria",
+      "place_id": "ChIJy_3MgCFEtokRXlQefYDJzGI",
+      "type": "Mexican Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 447,
+      "location": {
+        "latitude": 38.884807699999996,
+        "longitude": -77.444713
+      },
+      "address": "4500 Daly Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=7119286664658048094&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5539187397309726,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 268.20000000000005
+      }
+    },
+    {
+      "name": "Pizza Boli's",
+      "place_id": "ChIJEaUlvU9FtokRI052r31lwR8",
+      "type": "Pizza Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 404,
+      "location": {
+        "latitude": 38.88474,
+        "longitude": -77.44453
+      },
+      "address": "4500 Daly Dr Suite 220, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=2288221676170006051&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5515034235830851,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 242.40000000000003
+      }
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "place_id": "ChIJBb413ZNFtokRm6NlsVCdEv8",
+      "type": "Coffee Shop",
+      "rating": 4.2,
+      "user_ratings_total": 404,
+      "location": {
+        "latitude": 38.85923,
+        "longitude": -77.38826
+      },
+      "address": "12957 Fair Lakes Shopping Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=18379925999151588251&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5515034235830851,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 242.40000000000003
+      }
+    },
+    {
+      "name": "Gangnam AYCE Buffet",
+      "place_id": "ChIJAQbbM35HtokRS9zLVLV7rYk",
+      "type": "Buffet Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 97,
+      "location": {
+        "latitude": 38.896853799999995,
+        "longitude": -77.4248248
+      },
+      "address": "13948 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=9920721572909014091&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5510172188885782,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 63.04999999999999
+      }
+    },
+    {
+      "name": "sushi ohayo",
+      "place_id": "ChIJBWnY03xHtokReMwBF5fTW1U",
+      "type": "Japanese Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 347,
+      "location": {
+        "latitude": 38.8974973,
+        "longitude": -77.44334769999999
+      },
+      "address": "14410 Chantilly Crossing Ln, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=6150742361984060536&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5476310605655876,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 208.20000000000002
+      }
+    },
+    {
+      "name": "Calletana's Peruvian Chicken & Cuisine",
+      "place_id": "ChIJueISBApFtokRtIvBGiAmVcA",
+      "type": "Peruvian Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 330,
+      "location": {
+        "latitude": 38.8870236,
+        "longitude": -77.44066269999999
+      },
+      "address": "4300 Chantilly Shopping Center #2J, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=13859025347632270260&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.546285406341139,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 198.00000000000003
+      }
+    },
+    {
+      "name": "GolpoSholpo",
+      "place_id": "ChIJicF4ewBFtokRnU3J5gZEuR0",
+      "type": "Fast Food Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 87,
+      "location": {
+        "latitude": 38.879666799999995,
+        "longitude": -77.3956413
+      },
+      "address": "13001 US-50 #1, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=2141817894223826333&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5453683035253594,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 56.54999999999999
+      }
+    },
+    {
+      "name": "Paisano's Pizza",
+      "place_id": "ChIJc036laNGtokR5idt_0Qvgv0",
+      "type": "Italian Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 288,
+      "location": {
+        "latitude": 38.9015468,
+        "longitude": -77.4511452
+      },
+      "address": "4078 Airline Pkwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=18267215011957778406&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5424626248067199,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 172.8
+      }
+    },
+    {
+      "name": "Uncle Fred's BBQ Smoke Shack",
+      "place_id": "ChIJ7Ycc_JpJtokRM74LLl2nJkc",
+      "type": "Barbecue Restaurant",
+      "rating": 4.5,
+      "user_ratings_total": 22,
+      "location": {
+        "latitude": 38.925252799999996,
+        "longitude": -77.37275
+      },
+      "address": "South Park n Ride parking, lot, 2531 Reston Pkwy Reston, Herndon",
+      "maps_url": "https://maps.google.com/?cid=5126969244454207027&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5417984756639173,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.75,
+        "positive_ratings": 16.5
+      }
+    },
+    {
+      "name": "Felah Village Kebab & Steak",
+      "place_id": "ChIJswWnmw9HtokRVj5Ot9gIQO8",
+      "type": "Turkish Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 252,
+      "location": {
+        "latitude": 38.897542699999995,
+        "longitude": -77.4430594
+      },
+      "address": "14404 Chantilly Crossing Ln, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=17239789100455575126&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5384497379129611,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 151.20000000000002
+      }
+    },
+    {
+      "name": "Bruster's Real Ice Cream",
+      "place_id": "ChIJVbqZTDVPtokRpntTSkrVbI4",
+      "type": "Ice Cream Shop",
+      "rating": 4.2,
+      "user_ratings_total": 217,
+      "location": {
+        "latitude": 38.873202899999995,
+        "longitude": -77.3735457
+      },
+      "address": "3903 Fair Ridge Dr Ste S, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=10262812165921799078&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5336250917688621,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 130.20000000000002
+      }
+    },
+    {
+      "name": "Asian Cafe Chantilly",
+      "place_id": "ChIJ29JtYnhFtokR2HAMn05QcgA",
+      "type": "Chinese Restaurant",
+      "rating": 4.3,
+      "user_ratings_total": 70,
+      "location": {
+        "latitude": 38.8869658,
+        "longitude": -77.440187
+      },
+      "address": "4300 Chantilly Shopping Center #1R, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=32176445951078616&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5331271101075227,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6499999999999999,
+        "positive_ratings": 45.49999999999999
+      }
+    },
+    {
+      "name": "Roaming Rooster",
+      "place_id": "ChIJxXKoNHNHtokRFObThZFslDM",
+      "type": "Chicken Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 196,
+      "location": {
+        "latitude": 38.897390900000005,
+        "longitude": -77.4427446
+      },
+      "address": "14394 Chantilly Crossing Ln, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=3716714964758816276&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5301284810460162,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 117.60000000000002
+      }
+    },
+    {
+      "name": "Chennai Express Restaurant",
+      "place_id": "ChIJh8HrcKJGtokRzUQworY2fos",
+      "type": "Indian Restaurant",
+      "rating": 4.1,
+      "user_ratings_total": 1479,
+      "location": {
+        "latitude": 38.8970347,
+        "longitude": -77.4481594
+      },
+      "address": "14516 Lee Rd Unit B, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=10051531576370545869&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5245487022890201,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5499999999999998,
+        "positive_ratings": 813.4499999999997
+      }
+    },
+    {
+      "name": "Red Robin Gourmet Burgers and Brews",
+      "place_id": "ChIJKUgY1ZZFtokReRvXfeTZZGI",
+      "type": "Restaurant",
+      "rating": 4.1,
+      "user_ratings_total": 1230,
+      "location": {
+        "latitude": 38.8580463,
+        "longitude": -77.3957085
+      },
+      "address": "13056 Fair Lakes Shopping Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=7090031288775023481&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5220847524501387,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5499999999999998,
+        "positive_ratings": 676.4999999999998
+      }
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "place_id": "ChIJe1WcKH9ItokRPCUCEnCEKyA",
+      "type": "Coffee Shop",
+      "rating": 4.2,
+      "user_ratings_total": 153,
+      "location": {
+        "latitude": 38.92764,
+        "longitude": -77.37528999999999
+      },
+      "address": "2523 John Milton Dr, Herndon",
+      "maps_url": "https://maps.google.com/?cid=2318092050085586236&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5208420122031905,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 91.80000000000001
+      }
+    },
+    {
+      "name": "Playa Bowls",
+      "place_id": "ChIJ3-WsmFVFtokRqMjMbQd9jCI",
+      "type": "Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 29,
+      "location": {
+        "latitude": 38.880311299999995,
+        "longitude": -77.3983318
+      },
+      "address": "13059 Lee Jackson Mem Hwy A, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=2489502164889421992&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5181417382147295,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 20.300000000000004
+      }
+    },
+    {
+      "name": "Chutzpah Deli",
+      "place_id": "ChIJe1MNUltPtokRbFf97wVz3eo",
+      "type": "Deli",
+      "rating": 4.1,
+      "user_ratings_total": 907,
+      "location": {
+        "latitude": 38.8659609,
+        "longitude": -77.3694735
+      },
+      "address": "12214 Fairfax Towne Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=16923809444066580332&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5174801234674166,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5499999999999998,
+        "positive_ratings": 498.84999999999985
+      }
+    },
+    {
+      "name": "Buffalo Wing Factory",
+      "place_id": "ChIJQ9IaFuFFtokRh5l751fyCyA",
+      "type": "American Restaurant",
+      "rating": 4.1,
+      "user_ratings_total": 749,
+      "location": {
+        "latitude": 38.88087,
+        "longitude": -77.3993823
+      },
+      "address": "13067 Lee Jackson Memorial Hwy Service Rd, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=2309205693317224839&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.514206694413129,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5499999999999998,
+        "positive_ratings": 411.9499999999999
+      }
+    },
+    {
+      "name": "Cholito Chicken",
+      "place_id": "ChIJ19oHn4dGtokR4eo_edin9w8",
+      "type": "Peruvian Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 126,
+      "location": {
+        "latitude": 38.896420899999995,
+        "longitude": -77.42397609999999
+      },
+      "address": "13912 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=1150572778005457633&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5127245411952344,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 75.60000000000001
+      }
+    },
+    {
+      "name": "The Qui Korean BBQ & BAR | Korean BBQ Chantilly, VA",
+      "place_id": "ChIJv75ogNxHtokRlxqfJTSAJ4I",
+      "type": "Restaurant",
+      "rating": 4.1,
+      "user_ratings_total": 617,
+      "location": {
+        "latitude": 38.8964881,
+        "longitude": -77.4267196
+      },
+      "address": "13972 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=9378605710480186007&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5105562041908002,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5499999999999998,
+        "positive_ratings": 339.3499999999999
+      }
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "place_id": "ChIJQczEBE9FtokR5IFiNFwBCJo",
+      "type": "Coffee Shop",
+      "rating": 4.1,
+      "user_ratings_total": 553,
+      "location": {
+        "latitude": 38.886579999999995,
+        "longitude": -77.44484
+      },
+      "address": "4412 Chantilly Lace Ct, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=11099122777182077412&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5083327141901393,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5499999999999998,
+        "positive_ratings": 304.1499999999999
+      }
+    },
+    {
+      "name": "Dunkin'",
+      "place_id": "ChIJZ5-15IxFtokRU0eFlJb4YR0",
+      "type": "Coffee Shop",
+      "rating": 4.1,
+      "user_ratings_total": 500,
+      "location": {
+        "latitude": 38.861098,
+        "longitude": -77.3864667
+      },
+      "address": "12701 Shoppes Ln, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=2117246625461389139&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5061772177351763,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5499999999999998,
+        "positive_ratings": 274.9999999999999
+      }
+    },
+    {
+      "name": "Revash Restaurant & Catering",
+      "place_id": "ChIJDUdmRSREtokRkli9F5nDwyk",
+      "type": "Peruvian Restaurant",
+      "rating": 4.1,
+      "user_ratings_total": 412,
+      "location": {
+        "latitude": 38.882273999999995,
+        "longitude": -77.439399
+      },
+      "address": "4445 Brookfield Corporate Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=3009464038309320850&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.5017200382252389,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5499999999999998,
+        "positive_ratings": 226.59999999999994
+      }
+    },
+    {
+      "name": "The Gallery Cafe",
+      "place_id": "ChIJ-SoUVblFtokR45xAwgopYDA",
+      "type": "Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 24,
+      "location": {
+        "latitude": 38.8799912,
+        "longitude": -77.4558607
+      },
+      "address": "Conference Center Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=3485831237770190051&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.49996201406247776,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.7000000000000002,
+        "positive_ratings": 16.800000000000004
+      }
+    },
+    {
+      "name": "Wawa",
+      "place_id": "ChIJVbuAdvZGtokRa7axMzWaYeA",
+      "type": "Fast Food Restaurant",
+      "rating": 4.1,
+      "user_ratings_total": 381,
+      "location": {
+        "latitude": 38.91422000000001,
+        "longitude": -77.425674
+      },
+      "address": "3450 Historic Sully Way, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=16168373690528020075&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.4997940059060941,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5499999999999998,
+        "positive_ratings": 209.54999999999993
+      }
+    },
+    {
+      "name": "Tropical Smoothie Cafe",
+      "place_id": "ChIJOQeLfyFEtokRGjJj7IH2-eA",
+      "type": "Juice Shop",
+      "rating": 4.1,
+      "user_ratings_total": 311,
+      "location": {
+        "latitude": 38.884221,
+        "longitude": -77.44417299999999
+      },
+      "address": "4500 Daly Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=16211259371573948954&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.4944337629035732,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5499999999999998,
+        "positive_ratings": 171.04999999999995
+      }
+    },
+    {
+      "name": "Meokja 1.5",
+      "place_id": "ChIJpwK7_UxFtokRsliKwSCzJoY",
+      "type": "Korean Barbecue Restaurant",
+      "rating": 4.2,
+      "user_ratings_total": 70,
+      "location": {
+        "latitude": 38.879692299999995,
+        "longitude": -77.39751749999999
+      },
+      "address": "13041 Lee Jackson Memorial Hwy Service Rd, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=9666610603464743090&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.4829379647735629,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 42.00000000000001
+      }
+    },
+    {
+      "name": "Capital Restaurant Group",
+      "place_id": "ChIJ3_QwHOVEtokRT0boTdSUL8M",
+      "type": "Restaurant",
+      "rating": 4.7,
+      "user_ratings_total": 7,
+      "location": {
+        "latitude": 38.8823825,
+        "longitude": -77.4436207
+      },
+      "address": "4465 Brookfield Corporate Dr Ste 202, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=14064623800862393935&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.47990100314644474,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.8500000000000001,
+        "positive_ratings": 5.950000000000001
+      }
+    },
+    {
+      "name": "IHOP",
+      "place_id": "ChIJz43l04BGtokR4MGaKku0uuo",
+      "type": "Breakfast Restaurant",
+      "rating": 4,
+      "user_ratings_total": 1869,
+      "location": {
+        "latitude": 38.892770999999996,
+        "longitude": -77.4255974
+      },
+      "address": "13804 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=16914029585473651168&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.47735524699640103,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 934.5
+      }
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "place_id": "ChIJVVEukz9EtokRhum2mDx6dnc",
+      "type": "Sandwich Shop",
+      "rating": 4.1,
+      "user_ratings_total": 176,
+      "location": {
+        "latitude": 38.8702282,
+        "longitude": -77.44444829999999
+      },
+      "address": "5005 Westone Plz Unit B, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=8608202138444032390&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.4762147065362705,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5499999999999998,
+        "positive_ratings": 96.79999999999997
+      }
+    },
+    {
+      "name": "Hooters",
+      "place_id": "ChIJ7TcudSFEtokRZIGq7IhjCy8",
+      "type": "Sports Bar",
+      "rating": 4,
+      "user_ratings_total": 1614,
+      "location": {
+        "latitude": 38.885563100000006,
+        "longitude": -77.44395709999999
+      },
+      "address": "14441 Brookfield Tower Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=3389912584263729508&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.4756359144864492,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 807.0
+      }
+    },
+    {
+      "name": "Gunnam Foods",
+      "place_id": "ChIJOXuNxOVHtokRbQ0vyh9gzxc",
+      "type": "Indian Restaurant",
+      "rating": 4.1,
+      "user_ratings_total": 163,
+      "location": {
+        "latitude": 38.892674299999996,
+        "longitude": -77.43277739999999
+      },
+      "address": "4054 Walney Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=1715695672703782253&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.47335098651695473,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5499999999999998,
+        "positive_ratings": 89.64999999999998
+      }
+    },
+    {
+      "name": "Corner Bakery Cafe",
+      "place_id": "ChIJnTeLtkBPtokRliAGfuV26Tw",
+      "type": "Cafe",
+      "rating": 4,
+      "user_ratings_total": 742,
+      "location": {
+        "latitude": 38.8730909,
+        "longitude": -77.3725351
+      },
+      "address": "3903b Fair Ridge Dr, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=4389170039883178134&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.46411649682492245,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 371.0
+      }
+    },
+    {
+      "name": "Dumpling Queen",
+      "place_id": "ChIJ6VVo8odGtokRbjev0Ry35Ao",
+      "type": "Chinese Restaurant",
+      "rating": 4,
+      "user_ratings_total": 552,
+      "location": {
+        "latitude": 38.8967436,
+        "longitude": -77.4248629
+      },
+      "address": "13942 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=784953569474197358&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.4584335794716226,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 276.0
+      }
+    },
+    {
+      "name": "Pho 98 Restaurant",
+      "place_id": "ChIJc036laNGtokRTgMVbIrmFko",
+      "type": "Vietnamese Restaurant",
+      "rating": 4,
+      "user_ratings_total": 427,
+      "location": {
+        "latitude": 38.9009563,
+        "longitude": -77.4513782
+      },
+      "address": "4090 Airline Pkwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=5338707890487493454&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.45278724413171784,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 213.5
+      }
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "place_id": "ChIJW3wA9UFGtokRW822BaB8usw",
+      "type": "Coffee Shop",
+      "rating": 4,
+      "user_ratings_total": 347,
+      "location": {
+        "latitude": 38.90793,
+        "longitude": -77.40803
+      },
+      "address": "13360 Franklin Farm Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=14752240556137958747&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.4476806136820073,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 173.5
+      }
+    },
+    {
+      "name": "Skyhawk Local Vice",
+      "place_id": "ChIJN6zG-YhGtokRifkyd4vpEU0",
+      "type": "Corporate Office",
+      "rating": 5,
+      "user_ratings_total": 3,
+      "location": {
+        "latitude": 38.900095,
+        "longitude": -77.4272664
+      },
+      "address": "Parking lot, 3900 Skyhawk Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=5553476600734087561&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.4385029682449545,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 1.0,
+        "positive_ratings": 3.0
+      }
+    },
+    {
+      "name": "Bobbys Bagel Cafe",
+      "place_id": "ChIJH1s6P39ItokR8VBxeYxe0Co",
+      "type": "Bagel Shop",
+      "rating": 4,
+      "user_ratings_total": 230,
+      "location": {
+        "latitude": 38.9259457,
+        "longitude": -77.3756606
+      },
+      "address": "2571 John Milton Dr, Herndon",
+      "maps_url": "https://maps.google.com/?cid=3085069702174691569&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.4359148596910899,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 115.0
+      }
+    },
+    {
+      "name": "Potbelly",
+      "place_id": "ChIJu091_phGtokRVn8kXDAU3EQ",
+      "type": "Sandwich Shop",
+      "rating": 4,
+      "user_ratings_total": 227,
+      "location": {
+        "latitude": 38.8973243,
+        "longitude": -77.4429069
+      },
+      "address": "14396 Chantilly Crossing Ln, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=4961863087392325462&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.4354997808454727,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 113.5
+      }
+    },
+    {
+      "name": "Quickway Japanese Hibachi",
+      "place_id": "ChIJHYYRuWpEtokR25AcSB2aphU",
+      "type": "Japanese Restaurant",
+      "rating": 4,
+      "user_ratings_total": 226,
+      "location": {
+        "latitude": 38.869181999999995,
+        "longitude": -77.4468085
+      },
+      "address": "5045 Westfields Blvd, Centreville",
+      "maps_url": "https://maps.google.com/?cid=1560103771485016283&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.4353596185475164,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 113.0
+      }
+    },
+    {
+      "name": "Jimmy John's",
+      "place_id": "ChIJAZaY0yZEtokRivfZIbWmOAg",
+      "type": "Sandwich Shop",
+      "rating": 4,
+      "user_ratings_total": 214,
+      "location": {
+        "latitude": 38.8867113,
+        "longitude": -77.4408541
+      },
+      "address": "4300 Chantilly Shopping Center Suite 1F/1G, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=592406647886444426&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.4336030963436888,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 107.0
+      }
+    },
+    {
+      "name": "My Burger Sports Bar",
+      "place_id": "ChIJrUYZH5VHtokRfVHJEReyMZE",
+      "type": "Sports Bar",
+      "rating": 4.2,
+      "user_ratings_total": 34,
+      "location": {
+        "latitude": 38.900433899999996,
+        "longitude": -77.4498493
+      },
+      "address": "14513 Lee Jackson Mem Hwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=10462339221510771069&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.43343069060422473,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.6000000000000001,
+        "positive_ratings": 20.400000000000002
+      }
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "place_id": "ChIJCS5faFFGtokR6HbK4_aLuYs",
+      "type": "Chicken Restaurant",
+      "rating": 3.9,
+      "user_ratings_total": 899,
+      "location": {
+        "latitude": 38.9219797,
+        "longitude": -77.4168941
+      },
+      "address": "3075 Centreville Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=10068232334463366888&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.41776090629253865,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.44999999999999996,
+        "positive_ratings": 404.54999999999995
+      }
+    },
+    {
+      "name": "Taco Bell / Pizza Hut",
+      "place_id": "ChIJD2q4UyBEtokRoxGPiXPI4pg",
+      "type": "Fast Food Restaurant",
+      "rating": 3.9,
+      "user_ratings_total": 771,
+      "location": {
+        "latitude": 38.8866206,
+        "longitude": -77.4444505
+      },
+      "address": "4418 Chantilly Lace Ct, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=11016588037056303523&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.41521788641323093,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.44999999999999996,
+        "positive_ratings": 346.95
+      }
+    },
+    {
+      "name": "Campesino chicken",
+      "place_id": "ChIJVeugJUxFtokRTLqaTeKwfOA",
+      "type": "Peruvian Restaurant",
+      "rating": 4,
+      "user_ratings_total": 126,
+      "location": {
+        "latitude": 38.8690906,
+        "longitude": -77.4467051
+      },
+      "address": "5049 Westfields Blvd, Centreville",
+      "maps_url": "https://maps.google.com/?cid=16175998447619062348&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.4139974353838817,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 63.0
+      }
+    },
+    {
+      "name": "Asian Garden",
+      "place_id": "ChIJBf_tQ1FGtokRhmtcDJl9rZ4",
+      "type": "Chinese Restaurant",
+      "rating": 4,
+      "user_ratings_total": 114,
+      "location": {
+        "latitude": 38.9215097,
+        "longitude": -77.4165022
+      },
+      "address": "Centreville Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=11433933125254409094&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.409724679232304,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 57.0
+      }
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "place_id": "ChIJn1sLF0JGtokRau1UhoSmYbo",
+      "type": "Fast Food Restaurant",
+      "rating": 3.9,
+      "user_ratings_total": 530,
+      "location": {
+        "latitude": 38.9078947,
+        "longitude": -77.40875419999999
+      },
+      "address": "13354 Franklin Farm Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=13430198651915136362&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.40815659939295607,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.44999999999999996,
+        "positive_ratings": 238.49999999999997
+      }
+    },
+    {
+      "name": "Pastry Corner Cafe & Lounge",
+      "place_id": "ChIJR4HfbYRGtokRVDIQgTdjMTQ",
+      "type": "Indian Restaurant",
+      "rating": 3.9,
+      "user_ratings_total": 516,
+      "location": {
+        "latitude": 38.8939763,
+        "longitude": -77.4329367
+      },
+      "address": "14027 Lee Jackson Mem Hwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=3760896253870748244&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.40760172960529595,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.44999999999999996,
+        "positive_ratings": 232.2
+      }
+    },
+    {
+      "name": "Saravanaa Bhavan",
+      "place_id": "ChIJcVW3OJRHtokRxT_WbBsmumc",
+      "type": "Restaurant",
+      "rating": 3.9,
+      "user_ratings_total": 472,
+      "location": {
+        "latitude": 38.8972929,
+        "longitude": -77.44274790000001
+      },
+      "address": "14392 Chantilly Crossing Ln, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=7474328430806712261&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.40570213218737505,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.44999999999999996,
+        "positive_ratings": 212.39999999999998
+      }
+    },
+    {
+      "name": "Noodles and Company",
+      "place_id": "ChIJbzwLk41FtokReMQvogwfT2g",
+      "type": "Restaurant",
+      "rating": 3.9,
+      "user_ratings_total": 363,
+      "location": {
+        "latitude": 38.8589548,
+        "longitude": -77.388933
+      },
+      "address": "12961 Fair Lakes Shopping Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=7516260442225755256&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.39961166819387556,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.44999999999999996,
+        "positive_ratings": 163.35
+      }
+    },
+    {
+      "name": "Bonchon Herndon",
+      "place_id": "ChIJmb5HF0JGtokR36jNIOhj2Ww",
+      "type": "Korean Restaurant",
+      "rating": 3.9,
+      "user_ratings_total": 359,
+      "location": {
+        "latitude": 38.9083387,
+        "longitude": -77.40591409999999
+      },
+      "address": "13320 Franklin Farm Rd Ste E, Herndon",
+      "maps_url": "https://maps.google.com/?cid=7843410074676340959&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.39933755059918835,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.44999999999999996,
+        "positive_ratings": 161.54999999999998
+      }
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "place_id": "ChIJFw3LXOFFtokRyQSEHxQR5kg",
+      "type": "Coffee Shop",
+      "rating": 3.9,
+      "user_ratings_total": 353,
+      "location": {
+        "latitude": 38.879419999999996,
+        "longitude": -77.3964
+      },
+      "address": "13037-A Lee Jackson Mem Hwy Spc A, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=5252904793500026057&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.39891782458415714,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.44999999999999996,
+        "positive_ratings": 158.85
+      }
+    },
+    {
+      "name": "Clay Pot",
+      "place_id": "ChIJ1UZLmHlHtokRouwNRiW6BKg",
+      "type": "Indian Restaurant",
+      "rating": 3.9,
+      "user_ratings_total": 285,
+      "location": {
+        "latitude": 38.9215983,
+        "longitude": -77.4155916
+      },
+      "address": "3061 Centreville Rd Ste C, Herndon",
+      "maps_url": "https://maps.google.com/?cid=12107006367530609826&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.39328833904168237,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.44999999999999996,
+        "positive_ratings": 128.25
+      }
+    },
+    {
+      "name": "Jimmy John's",
+      "place_id": "ChIJzWi4_UZFtokRWzS635FIH_s",
+      "type": "Sandwich Shop",
+      "rating": 4,
+      "user_ratings_total": 78,
+      "location": {
+        "latitude": 38.8570413,
+        "longitude": -77.3943536
+      },
+      "address": "13048 Fair Lakes Shopping Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=18095261619158922331&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.39167432239746397,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 39.0
+      }
+    },
+    {
+      "name": "Panera Bread",
+      "place_id": "ChIJ9whqWdhHtokRHwXz2CCZrQg",
+      "type": "Cafe",
+      "rating": 4,
+      "user_ratings_total": 67,
+      "location": {
+        "latitude": 38.8941108,
+        "longitude": -77.4476753
+      },
+      "address": "14423 Chantilly Crossing Ln, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=625324289632175391&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.3835674665403804,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 33.5
+      }
+    },
+    {
+      "name": "Taco Bell",
+      "place_id": "ChIJk444Yo1FtokRmBAogtb-18Y",
+      "type": "Fast Food Restaurant",
+      "rating": 3.8,
+      "user_ratings_total": 1334,
+      "location": {
+        "latitude": 38.8615437,
+        "longitude": -77.3893646
+      },
+      "address": "12811 Federal Systems Park Dr, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=14328200936762642584&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.37403423369698957,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.3999999999999999,
+        "positive_ratings": 533.5999999999999
+      }
+    },
+    {
+      "name": "Hunan Cafe",
+      "place_id": "ChIJs-MUNn1FtokRy03qZEBOqC0",
+      "type": "Chinese Restaurant",
+      "rating": 3.9,
+      "user_ratings_total": 149,
+      "location": {
+        "latitude": 38.8780321,
+        "longitude": -77.3966655
+      },
+      "address": "4096 Majestic Ln, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=3289965566272097739&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.3723760770057547,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.44999999999999996,
+        "positive_ratings": 67.05
+      }
+    },
+    {
+      "name": "Subway",
+      "place_id": "ChIJwVBrKX9ItokRRPycNGJjiEs",
+      "type": "Sandwich Shop",
+      "rating": 4,
+      "user_ratings_total": 50,
+      "location": {
+        "latitude": 38.927639899999996,
+        "longitude": -77.3751171
+      },
+      "address": "2527 John Milton Dr #4, Herndon",
+      "maps_url": "https://maps.google.com/?cid=5442709423117892676&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.3664451431682858,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.5,
+        "positive_ratings": 25.0
+      }
+    },
+    {
+      "name": "Taco Bell",
+      "place_id": "ChIJkRLb1oBGtokRyyw7OzP950s",
+      "type": "Fast Food Restaurant",
+      "rating": 3.8,
+      "user_ratings_total": 676,
+      "location": {
+        "latitude": 38.892748,
+        "longitude": -77.42630869999999
+      },
+      "address": "13800 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=5469618668943649995&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.3637351124544038,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.3999999999999999,
+        "positive_ratings": 270.3999999999999
+      }
+    },
+    {
+      "name": "Gangnam Buffet",
+      "place_id": "ChIJ7XyBZwBHtokRjZVF4k2l7QQ",
+      "type": "Asian Restaurant",
+      "rating": 5,
+      "user_ratings_total": 2,
+      "location": {
+        "latitude": 38.896853799999995,
+        "longitude": -77.4248248
+      },
+      "address": "13948 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=355121699559413133&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.3423802275066531,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 1.0,
+        "positive_ratings": 2.0
+      }
+    },
+    {
+      "name": "Thai Tyme",
+      "place_id": "ChIJ6bFdfGtFtokRl3J8_knc9DY",
+      "type": "Thai Restaurant",
+      "rating": 3.8,
+      "user_ratings_total": 248,
+      "location": {
+        "latitude": 38.8762879,
+        "longitude": -77.4419848
+      },
+      "address": "14335-14350, 14385 Newbrook Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=3960032182725800599&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.34100128636831395,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.3999999999999999,
+        "positive_ratings": 99.19999999999997
+      }
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "place_id": "ChIJnSw8d5JFtokRAqq4kETMhhE",
+      "type": "Restaurant",
+      "rating": 3.7,
+      "user_ratings_total": 964,
+      "location": {
+        "latitude": 38.859974199999996,
+        "longitude": -77.39018779999999
+      },
+      "address": "12970 Fair Lakes Shopping Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=1262921340381866498&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.32054000693722784,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.3500000000000001,
+        "positive_ratings": 337.4000000000001
+      }
+    },
+    {
+      "name": "Two Amigos Restaurant",
+      "place_id": "ChIJ2Y2uLCFEtokRJHATj11FJLk",
+      "type": "Mexican Restaurant",
+      "rating": 3.7,
+      "user_ratings_total": 954,
+      "location": {
+        "latitude": 38.8867139,
+        "longitude": -77.4411718
+      },
+      "address": "4300 Chantilly Shopping Center Unit 2a, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=13340864264312942628&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.32038967702540955,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.3500000000000001,
+        "positive_ratings": 333.9000000000001
+      }
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "place_id": "ChIJNZqfQeFFtokRPrm-iXojNmI",
+      "type": "Chicken Restaurant",
+      "rating": 3.7,
+      "user_ratings_total": 940,
+      "location": {
+        "latitude": 38.8804729,
+        "longitude": -77.3976359
+      },
+      "address": "13051 Lee Jackson Memorial Hwy Service Rd, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=7076882873663273278&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.3201752689857278,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.3500000000000001,
+        "positive_ratings": 329.00000000000006
+      }
+    },
+    {
+      "name": "Peru Fiesta II",
+      "place_id": "ChIJ8zwm3j9EtokRAhVAaZ-vAx4",
+      "type": "Peruvian Restaurant",
+      "rating": 3.7,
+      "user_ratings_total": 749,
+      "location": {
+        "latitude": 38.870111,
+        "longitude": -77.44437300000001
+      },
+      "address": "5005 Westone Plz D, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=2162765345268438274&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.31668562754579,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.3500000000000001,
+        "positive_ratings": 262.1500000000001
+      }
+    },
+    {
+      "name": "Taste of Hong Kong",
+      "place_id": "ChIJa4wX2oZGtokRVaXUH-YRqd8",
+      "type": "Chinese Restaurant",
+      "rating": 3.7,
+      "user_ratings_total": 562,
+      "location": {
+        "latitude": 38.8937091,
+        "longitude": -77.427292
+      },
+      "address": "13912 Lee Jackson Mem Hwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=16116432421596210517&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.3117052515695017,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.3500000000000001,
+        "positive_ratings": 196.70000000000005
+      }
+    },
+    {
+      "name": "Dunkin'",
+      "place_id": "ChIJC8PRP-FFtokR4rxPdMwderU",
+      "type": "Coffee Shop",
+      "rating": 3.7,
+      "user_ratings_total": 272,
+      "location": {
+        "latitude": 38.880724799999996,
+        "longitude": -77.39853049999999
+      },
+      "address": "Greenbriar Shopping Center, 13061 Lee Jackson Mem Hwy, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=13076797231985573090&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.2957630805994122,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.3500000000000001,
+        "positive_ratings": 95.20000000000002
+      }
+    },
+    {
+      "name": "McDonald's",
+      "place_id": "ChIJs52ljyZEtokRwzWA9RijQwM",
+      "type": "Fast Food Restaurant",
+      "rating": 3.6,
+      "user_ratings_total": 1298,
+      "location": {
+        "latitude": 38.886095399999995,
+        "longitude": -77.4443015
+      },
+      "address": "4424 Brookfield Corporate Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=235210933146760643&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.27569007992006933,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.30000000000000004,
+        "positive_ratings": 389.40000000000003
+      }
+    },
+    {
+      "name": "McDonald's",
+      "place_id": "ChIJsUlA1eZFtokR1GzZC0JU2Vs",
+      "type": "Fast Food Restaurant",
+      "rating": 3.6,
+      "user_ratings_total": 983,
+      "location": {
+        "latitude": 38.8799194,
+        "longitude": -77.3961118
+      },
+      "address": "13003 Lee Jackson Memorial Hwy Service Rd, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=6618413770041027796&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.2721766290409876,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.30000000000000004,
+        "positive_ratings": 294.90000000000003
+      }
+    },
+    {
+      "name": "Dunkin'",
+      "place_id": "ChIJX8Fc1IZGtokRE9IZEWBoCGg",
+      "type": "Coffee Shop",
+      "rating": 3.6,
+      "user_ratings_total": 622,
+      "location": {
+        "latitude": 38.8933004,
+        "longitude": -77.427431
+      },
+      "address": "13902 Lee Jackson Memorial Hwy Service Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=7496356341571244563&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.26530405934239976,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.30000000000000004,
+        "positive_ratings": 186.60000000000002
+      }
+    },
+    {
+      "name": "Wendy's",
+      "place_id": "ChIJc036laNGtokROKwgFsH4e4Y",
+      "type": "Fast Food Restaurant",
+      "rating": 3.6,
+      "user_ratings_total": 582,
+      "location": {
+        "latitude": 38.9016989,
+        "longitude": -77.4510682
+      },
+      "address": "4070 Airline Pkwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=9690612531401370680&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.26418025459008077,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.30000000000000004,
+        "positive_ratings": 174.60000000000002
+      }
+    },
+    {
+      "name": "China Taste",
+      "place_id": "ChIJe3rXQXFFtokRJtQaOZ9aCMM",
+      "type": "Chinese Restaurant",
+      "rating": 3.7,
+      "user_ratings_total": 101,
+      "location": {
+        "latitude": 38.8606548,
+        "longitude": -77.3863708
+      },
+      "address": "12717 Shoppes Ln, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=14053582277113992230&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.26403050704901393,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.3500000000000001,
+        "positive_ratings": 35.35000000000001
+      }
+    },
+    {
+      "name": "Wendy's",
+      "place_id": "ChIJffK-nyFEtokRPl_L9hE_JFc",
+      "type": "Fast Food Restaurant",
+      "rating": 3.6,
+      "user_ratings_total": 534,
+      "location": {
+        "latitude": 38.8857132,
+        "longitude": -77.4445868
+      },
+      "address": "14445 Brookfield Tower Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=6279213126848831294&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.2626736442248727,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.30000000000000004,
+        "positive_ratings": 160.20000000000002
+      }
+    },
+    {
+      "name": "Panda Express",
+      "place_id": "ChIJ8VsvWxdFtokR2ZQf5G65AEA",
+      "type": "Chinese Restaurant",
+      "rating": 3.6,
+      "user_ratings_total": 366,
+      "location": {
+        "latitude": 38.8802612,
+        "longitude": -77.39840319999999
+      },
+      "address": "13059 Lee Jackson Mem Hwy, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=4611889904352203993&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.25532762204278425,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.30000000000000004,
+        "positive_ratings": 109.80000000000001
+      }
+    },
+    {
+      "name": "Bismillah Groceries & Halal Meat",
+      "place_id": "ChIJSdZbOr1GtokRF-rI6SAIV8s",
+      "type": "Grocery Store",
+      "rating": 3.6,
+      "user_ratings_total": 104,
+      "location": {
+        "latitude": 38.900433899999996,
+        "longitude": -77.4498493
+      },
+      "address": "14513 Lee Jackson Mem Hwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=14652188850127432215&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.22034155569624764,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.30000000000000004,
+        "positive_ratings": 31.200000000000003
+      }
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "place_id": "ChIJTTrSE5FFtokRoXo7v7aando",
+      "type": "Fast Food Restaurant",
+      "rating": 3.5,
+      "user_ratings_total": 655,
+      "location": {
+        "latitude": 38.8572627,
+        "longitude": -77.3943492
+      },
+      "address": "13042 Fair Lakes Shopping Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=15752917181294934689&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.21836132264062888,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.25,
+        "positive_ratings": 163.75
+      }
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "place_id": "ChIJP2A41N9FtokRs7_e2dNLLR8",
+      "type": "Fast Food Restaurant",
+      "rating": 3.5,
+      "user_ratings_total": 623,
+      "location": {
+        "latitude": 38.87752,
+        "longitude": -77.44252999999999
+      },
+      "address": "14383 Newbrook Dr Ste 100, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=2246535162393182131&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.21759979299165846,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.25,
+        "positive_ratings": 155.75
+      }
+    },
+    {
+      "name": "Subway",
+      "place_id": "ChIJ1UFU8kFGtokRL4Y3eo8gbNA",
+      "type": "Sandwich Shop",
+      "rating": 3.6,
+      "user_ratings_total": 96,
+      "location": {
+        "latitude": 38.9083113,
+        "longitude": -77.4060963
+      },
+      "address": "13320 Franklin Farm Rd Spc 18, Herndon",
+      "maps_url": "https://maps.google.com/?cid=15018414657976632879&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.21747822178947204,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.30000000000000004,
+        "positive_ratings": 28.800000000000004
+      }
+    },
+    {
+      "name": "Wendy's",
+      "place_id": "ChIJa97YE5FFtokRDjQJ6F1zMQ8",
+      "type": "Fast Food Restaurant",
+      "rating": 3.5,
+      "user_ratings_total": 401,
+      "location": {
+        "latitude": 38.8578294,
+        "longitude": -77.3932605
+      },
+      "address": "13030 Fair Lakes Shopping Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=1094783031589811214&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.21012557888037187,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.25,
+        "positive_ratings": 100.25
+      }
+    },
+    {
+      "name": "Subway",
+      "place_id": "ChIJX0A3EIRGtokRwwVl-hDXduM",
+      "type": "Sandwich Shop",
+      "rating": 3.6,
+      "user_ratings_total": 78,
+      "location": {
+        "latitude": 38.894287,
+        "longitude": -77.4284038
+      },
+      "address": "13926 Lee Jackson Mem Hwy Store No. 17, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=16390524361781872067&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.2096626084012919,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.30000000000000004,
+        "positive_ratings": 23.400000000000002
+      }
+    },
+    {
+      "name": "Paisano\u2019s Pizza",
+      "place_id": "ChIJC0ZVSgBFtokRdCj-RWGC3Zw",
+      "type": "Pizza Restaurant",
+      "rating": 5,
+      "user_ratings_total": 1,
+      "location": {
+        "latitude": 38.8606541,
+        "longitude": -77.386416
+      },
+      "address": "12715 Shoppes Ln, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=11303333994067535988&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.20654931437723742,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 1.0,
+        "positive_ratings": 1.0
+      }
+    },
+    {
+      "name": "Rosella's Cafe",
+      "place_id": "ChIJz4oPq-xFtokRKQU8KY3O9W0",
+      "type": "Restaurant",
+      "rating": 5,
+      "user_ratings_total": 1,
+      "location": {
+        "latitude": 38.8876859,
+        "longitude": -77.4488892
+      },
+      "address": "14501 George Carter Way, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=7923466225105765673&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.20654931437723742,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 1.0,
+        "positive_ratings": 1.0
+      }
+    },
+    {
+      "name": "Fuego & Maiz",
+      "place_id": "ChIJieEV86tHtokRHhCEaOrDvR0",
+      "type": "Restaurant",
+      "rating": 3.9,
+      "user_ratings_total": 8,
+      "location": {
+        "latitude": 38.9002104,
+        "longitude": -77.4489344
+      },
+      "address": "14511 US-50 Ste C, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=2143084409241473054&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.18240006012171517,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.44999999999999996,
+        "positive_ratings": 3.5999999999999996
+      }
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "place_id": "ChIJiSTVWZhGtokRC9iHAiYB7B8",
+      "type": "Fast Food Restaurant",
+      "rating": 3.4,
+      "user_ratings_total": 893,
+      "location": {
+        "latitude": 38.897549399999996,
+        "longitude": -77.44347189999999
+      },
+      "address": "14416 Chantilly Crossing Ln, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=2300214772442322955&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.1750746470398763,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.19999999999999996,
+        "positive_ratings": 178.59999999999997
+      }
+    },
+    {
+      "name": "McDonald's",
+      "place_id": "ChIJEVLxHo1FtokR8fRoG0ZWxKE",
+      "type": "Fast Food Restaurant",
+      "rating": 3.3,
+      "user_ratings_total": 1505,
+      "location": {
+        "latitude": 38.8614246,
+        "longitude": -77.38710209999999
+      },
+      "address": "12700 Shoppes Ln, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=11656536594649249009&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.13285211126710197,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.1499999999999999,
+        "positive_ratings": 225.74999999999986
+      }
+    },
+    {
+      "name": "Subway",
+      "place_id": "ChIJW_34k2pEtokRrqkKH7s0KhU",
+      "type": "Sandwich Shop",
+      "rating": 3.4,
+      "user_ratings_total": 73,
+      "location": {
+        "latitude": 38.8691263,
+        "longitude": -77.4467244
+      },
+      "address": "5047 Westfields Blvd, Centreville",
+      "maps_url": "https://maps.google.com/?cid=1525089402102655406&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.12431326332937649,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.19999999999999996,
+        "positive_ratings": 14.599999999999996
+      }
+    },
+    {
+      "name": "Burger King",
+      "place_id": "ChIJhzy_bpFFtokR0LPhYBqNYwU",
+      "type": "Fast Food Restaurant",
+      "rating": 3.3,
+      "user_ratings_total": 456,
+      "location": {
+        "latitude": 38.8578049,
+        "longitude": -77.3938443
+      },
+      "address": "13040 Fair Lakes Shopping Center, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=388309137318065104&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.12015698009964727,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.1499999999999999,
+        "positive_ratings": 68.39999999999996
+      }
+    },
+    {
+      "name": "Punjabi By Nature",
+      "place_id": "ChIJKx7TD4dGtokRNm0aWr8d6sU",
+      "type": "Indian Restaurant",
+      "rating": 3.3,
+      "user_ratings_total": 453,
+      "location": {
+        "latitude": 38.8951322,
+        "longitude": -77.4269872
+      },
+      "address": "13955 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=14261243877709737270&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.12006790992494355,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.1499999999999999,
+        "positive_ratings": 67.94999999999996
+      }
+    },
+    {
+      "name": "Burger King",
+      "place_id": "ChIJ3ZFxYlFGtokRDFcMpLXbpis",
+      "type": "Restaurant",
+      "rating": 3.3,
+      "user_ratings_total": 449,
+      "location": {
+        "latitude": 38.9224835,
+        "longitude": -77.41674189999999
+      },
+      "address": "3035 Centreville Road Mclearen Square, Oak Hill",
+      "maps_url": "https://maps.google.com/?cid=3145442962952705804&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.11994786181912438,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.1499999999999999,
+        "positive_ratings": 67.34999999999997
+      }
+    },
+    {
+      "name": "Taco Bell",
+      "place_id": "ChIJ731n3xZHtokRT5Ez-Pf1Jok",
+      "type": "Fast Food Restaurant",
+      "rating": 3.3,
+      "user_ratings_total": 266,
+      "location": {
+        "latitude": 38.9229372,
+        "longitude": -77.4165781
+      },
+      "address": "3019 Centreville Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=9882856877680988495&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.11208837269428312,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.1499999999999999,
+        "positive_ratings": 39.89999999999998
+      }
+    },
+    {
+      "name": "Hibachi Buffet & Grill",
+      "place_id": "ChIJvUIDr4dGtokR1yOInx0oM4E",
+      "type": "Restaurant",
+      "rating": 3.2,
+      "user_ratings_total": 1570,
+      "location": {
+        "latitude": 38.8969272,
+        "longitude": -77.4250423
+      },
+      "address": "13948 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=9309828962400609239&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.08612281759734129,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.10000000000000009,
+        "positive_ratings": 157.00000000000014
+      }
+    },
+    {
+      "name": "Domino's Pizza",
+      "place_id": "ChIJC8PRP-FFtokRW1lkC8KrpsY",
+      "type": "Pizza Delivery",
+      "rating": 3.2,
+      "user_ratings_total": 396,
+      "location": {
+        "latitude": 38.879549399999995,
+        "longitude": -77.39958299999999
+      },
+      "address": "13053 US-50 B, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=14314317315546831195&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.07418763745141961,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.10000000000000009,
+        "positive_ratings": 39.60000000000004
+      }
+    },
+    {
+      "name": "Vocelli Pizza Herndon",
+      "place_id": "ChIJ_waNQ1FGtokRHsmpZQ9LTLk",
+      "type": "Pizza Restaurant",
+      "rating": 3.2,
+      "user_ratings_total": 70,
+      "location": {
+        "latitude": 38.921276,
+        "longitude": -77.4165123
+      },
+      "address": "3065 T Centreville Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=13352129524748896542&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.04928930144253958,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.10000000000000009,
+        "positive_ratings": 7.000000000000006
+      }
+    },
+    {
+      "name": "7-Eleven",
+      "place_id": "ChIJ0QMyLb1GtokRFgXD0UNGU0s",
+      "type": "Convenience Store",
+      "rating": 3.2,
+      "user_ratings_total": 36,
+      "location": {
+        "latitude": 38.90105020000001,
+        "longitude": -77.44993439999999
+      },
+      "address": "14515 Lee Jackson Mem Hwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=5427759233007551766&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.03774520744417233,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0.10000000000000009,
+        "positive_ratings": 3.600000000000003
+      }
+    },
+    {
+      "name": "7-Eleven",
+      "place_id": "ChIJ176yWkZHtokRqw5-q6RlJp0",
+      "type": "Convenience Store",
+      "rating": 1.6,
+      "user_ratings_total": 7,
+      "location": {
+        "latitude": 38.9078215,
+        "longitude": -77.405959
+      },
+      "address": "13300 Franklin Farm Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=11323850070995898027&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 3.584186086443356e-17,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "7-Eleven",
+      "place_id": "ChIJLQiIyZVHtokRuuXql-6Z_yI",
+      "type": "Convenience Store",
+      "rating": 2,
+      "user_ratings_total": 25,
+      "location": {
+        "latitude": 38.888496499999995,
+        "longitude": -77.418267
+      },
+      "address": "13617 Lee Jackson Mem Hwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=2521903566380787130&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 1.2029374011637166e-17,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "place_id": "ChIJH1s6P39ItokR-tu82JaC-zs",
+      "type": "Pizza Restaurant",
+      "rating": 3,
+      "user_ratings_total": 153,
+      "location": {
+        "latitude": 38.9259586,
+        "longitude": -77.37563399999999
+      },
+      "address": "2571 John Milton Dr, Herndon",
+      "maps_url": "https://maps.google.com/?cid=4322191851785083898&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 1.6922355467751628e-18,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "Subway",
+      "place_id": "ChIJ9d9DmiBEtokRhfYvELhCKyo",
+      "type": "Sandwich Shop",
+      "rating": 3,
+      "user_ratings_total": 114,
+      "location": {
+        "latitude": 38.8888275,
+        "longitude": -77.4425818
+      },
+      "address": "4368 Chantilly Shopping Center, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=3038595731904525957&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "place_id": "ChIJH8kzj2xPtokR7vXiFnEnvOQ",
+      "type": "Restaurant",
+      "rating": 3,
+      "user_ratings_total": 1,
+      "location": {
+        "latitude": 38.8729795,
+        "longitude": -77.37425259999999
+      },
+      "address": "3905 Fair Ridge Dr, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=16482092102937933294&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "place_id": "ChIJP1hAJf1EtokRyJL5uRbzBVo",
+      "type": "Pizza Restaurant",
+      "rating": 2.9,
+      "user_ratings_total": 191,
+      "location": {
+        "latitude": 38.8946914,
+        "longitude": -77.4227341
+      },
+      "address": "13886 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=6486858117232038600&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "Shake Shack Air and Space Museum",
+      "place_id": "ChIJz4dREstHtokR8RODktI40tg",
+      "type": "Hamburger Restaurant",
+      "rating": 2.9,
+      "user_ratings_total": 181,
+      "location": {
+        "latitude": 38.9109099,
+        "longitude": -77.4434665
+      },
+      "address": "14390 Air and Space Museum Pkwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=15623612534354023409&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "7-Eleven",
+      "place_id": "ChIJeVv8vOZFtokRXotoPSaizcU",
+      "type": "Convenience Store",
+      "rating": 2.9,
+      "user_ratings_total": 55,
+      "location": {
+        "latitude": 38.8782698,
+        "longitude": -77.39654209999999
+      },
+      "address": "Shopping Ctr, 4086 Majestic Ln Greenbriar, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=14253226680820206430&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "7-Eleven",
+      "place_id": "ChIJ13APrb5HtokREYNEY9oSoIM",
+      "type": "Convenience Store",
+      "rating": 2.9,
+      "user_ratings_total": 23,
+      "location": {
+        "latitude": 38.9245468,
+        "longitude": -77.4171685
+      },
+      "address": "2990 Centreville Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=9484601544419869457&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "7-Eleven",
+      "place_id": "ChIJiZlyD41FtokRntuYhpxYrvw",
+      "type": "Convenience Store",
+      "rating": 2.7,
+      "user_ratings_total": 41,
+      "location": {
+        "latitude": 38.8609354,
+        "longitude": -77.3877748
+      },
+      "address": "12730 Shoppes Ln, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=18207587772801801118&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "7-Eleven",
+      "place_id": "ChIJSUx7pH9ItokR74uc-06DXnQ",
+      "type": "Convenience Store",
+      "rating": 2.7,
+      "user_ratings_total": 40,
+      "location": {
+        "latitude": 38.9254836,
+        "longitude": -77.37661229999999
+      },
+      "address": "2601 Quincy Adams Dr, Herndon",
+      "maps_url": "https://maps.google.com/?cid=8385283931462470639&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "Domino's Pizza",
+      "place_id": "ChIJ9Sz3cjBHtokRSSmXyoWDxVk",
+      "type": "Pizza Delivery",
+      "rating": 2.5,
+      "user_ratings_total": 267,
+      "location": {
+        "latitude": 38.921546899999996,
+        "longitude": -77.4158935
+      },
+      "address": "3063 Centreville Rd Ste C, Herndon",
+      "maps_url": "https://maps.google.com/?cid=6468721050440378697&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "7-Eleven",
+      "place_id": "ChIJ2U9TUoZGtokRVdvkyV-QftM",
+      "type": "Convenience Store",
+      "rating": 2.4,
+      "user_ratings_total": 78,
+      "location": {
+        "latitude": 38.8964153,
+        "longitude": -77.4282777
+      },
+      "address": "13990 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=15239776930151848789&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "Corner Shoppe",
+      "place_id": "ChIJjVVctRBJtokR_Z0N4nTLsyk",
+      "type": "Takeout Restaurant",
+      "rating": 2,
+      "user_ratings_total": 2,
+      "location": {
+        "latitude": 38.9268705,
+        "longitude": -77.3749424
+      },
+      "address": "2551 John Milton Dr, Herndon",
+      "maps_url": "https://maps.google.com/?cid=3004969079255440893&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "SEOUL KITHCEN BY OHMANI BOP",
+      "place_id": "ChIJZTc78TBHtokRX5trGw9s_AU",
+      "type": "Korean Restaurant",
+      "rating": 2,
+      "user_ratings_total": 1,
+      "location": {
+        "latitude": 38.896774099999995,
+        "longitude": -77.4245438
+      },
+      "address": "13934 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=431338476461071199&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "The Bistro - Eat. Drink. Connect.\u00ae",
+      "place_id": "ChIJL_w5TYRGtokRt3c_Z1zfn8E",
+      "type": "American Restaurant",
+      "rating": 1.5,
+      "user_ratings_total": 4,
+      "location": {
+        "latitude": 38.896244,
+        "longitude": -77.43216
+      },
+      "address": "3935 Centerview Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=13952115758579283895&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "Farmer's Fridge",
+      "place_id": "ChIJMQc4rxNPtokR5ghimw6IAfU",
+      "type": "Restaurant",
+      "rating": 1,
+      "user_ratings_total": 1,
+      "location": {
+        "latitude": 38.86405,
+        "longitude": -77.367217
+      },
+      "address": "Located in the tenant lounge, 12150 Monument Dr, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=17654541610586867942&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": 0.0,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    },
+    {
+      "name": "Pizza",
+      "place_id": "ChIJoTPoVABFtokRWm2gfi5V0yY",
+      "type": "Family Restaurant",
+      "rating": null,
+      "user_ratings_total": null,
+      "location": {
+        "latitude": 38.8796481,
+        "longitude": -77.399543
+      },
+      "address": "13053B US-50, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=2797673451708509530&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+    },
+    {
+      "name": "MLB Ballpark Bites",
+      "place_id": "ChIJpzUL4pJHtokRAa29pbiARfQ",
+      "type": "American Restaurant",
+      "rating": null,
+      "user_ratings_total": null,
+      "location": {
+        "latitude": 38.892770999999996,
+        "longitude": -77.4255974
+      },
+      "address": "13804 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=17601616249190460673&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+    },
+    {
+      "name": "Ohmani Bap",
+      "place_id": "ChIJVci1aahHtokRW3kFeYIp3_g",
+      "type": "Korean Restaurant",
+      "rating": null,
+      "user_ratings_total": null,
+      "location": {
+        "latitude": 38.896774099999995,
+        "longitude": -77.4245438
+      },
+      "address": "13934 Metrotech Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=17933097881565493595&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+    },
+    {
+      "name": "Oaks Caf\u00e9",
+      "place_id": "ChIJKdxqdQBHtokRaWlo_oHalvg",
+      "type": "Restaurant",
+      "rating": null,
+      "user_ratings_total": null,
+      "location": {
+        "latitude": 38.88491150000001,
+        "longitude": -77.3799476
+      },
+      "address": "3600 Joseph Siewick Dr, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=17912744819766618473&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+    },
+    {
+      "name": "Yi\u2019s Traditional Korean Beef Soup",
+      "place_id": "ChIJNcKSZgBHtokROKDMQKk8B5k",
+      "type": "Korean Restaurant",
+      "rating": null,
+      "user_ratings_total": null,
+      "location": {
+        "latitude": 38.889661499999995,
+        "longitude": -77.43563790000002
+      },
+      "address": "14200 Sullyfield Cir, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=11026848910274240568&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+    },
+    {
+      "name": "Restaurante peruano",
+      "place_id": "ChIJre4Jkl5FtokRF5tGpRSGKKc",
+      "type": "Restaurant",
+      "rating": null,
+      "user_ratings_total": null,
+      "location": {
+        "latitude": 38.882273999999995,
+        "longitude": -77.439399
+      },
+      "address": "4445 Brookfield Corporate Dr, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=12045024626632727319&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+    },
+    {
+      "name": "Levant (Coming Soon)",
+      "place_id": "ChIJaxiUMABHtokRZAAWNvhF3dw",
+      "type": "Shawarma restaurant",
+      "rating": null,
+      "user_ratings_total": null,
+      "location": {
+        "latitude": 38.9215792,
+        "longitude": -77.4162772
+      },
+      "address": "3065 Centreville Rd, Herndon",
+      "maps_url": "https://maps.google.com/?cid=15914953590558818404&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+    },
+    {
+      "name": "The Garden Grille & Bar",
+      "place_id": "ChIJ5Yp54iBPtokRPoG2YK1DgCc",
+      "type": "Restaurant",
+      "rating": null,
+      "user_ratings_total": null,
+      "location": {
+        "latitude": 38.872658699999995,
+        "longitude": -77.37104490000002
+      },
+      "address": "Located in the Hilton Garden Inn Fairfax, 3950 Fair Ridge Dr, Fairfax",
+      "maps_url": "https://maps.google.com/?cid=2846349376429130046&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+    },
+    {
+      "name": "Chay Restaurant",
+      "place_id": "ChIJMeRyHThFtokR8WkeWnOF-ak",
+      "type": "Vietnamese Restaurant",
+      "rating": null,
+      "user_ratings_total": null,
+      "location": {
+        "latitude": 38.8703094,
+        "longitude": -77.4445858
+      },
+      "address": "5005 Westone Plz, Centreville",
+      "maps_url": "https://maps.google.com/?cid=12247967392090450417&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+    },
+    {
+      "name": "New Hunan village",
+      "place_id": "ChIJWVgrfgBHtokRd3_fuIDlvDY",
+      "type": "Chinese Restaurant",
+      "rating": null,
+      "user_ratings_total": null,
+      "location": {
+        "latitude": 38.900433899999996,
+        "longitude": -77.4498493
+      },
+      "address": "14513 Lee Jackson Mem Hwy, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=3944279714689941367&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA"
+    },
+    {
+      "name": "7-Eleven",
+      "place_id": "ChIJW7MHYqBGtokRxHMZUST-CPc",
+      "type": "Convenience Store",
+      "rating": 3,
+      "user_ratings_total": 47,
+      "location": {
+        "latitude": 38.8941869,
+        "longitude": -77.44819079999999
+      },
+      "address": "14533 Lee Rd, Chantilly",
+      "maps_url": "https://maps.google.com/?cid=17800756959114785732&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "wilson_score": -6.4146077049798385e-18,
+      "ranking_metadata": {
+        "confidence_level": 0.95,
+        "positive_ratio": 0,
+        "positive_ratings": 0
+      }
+    }
+  ],
+  "metadata": {
+    "ranking_method": "Wilson Score Interval",
+    "confidence_level": 0.95,
+    "total_restaurants": 241,
+    "ranking_interpretation": "Balanced ranking: Moderate balance between ratings and rating count"
+  }
+}
